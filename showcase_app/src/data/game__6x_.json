@@ -1,0 +1,48 @@
+{
+  "id": "node_97",
+  "name": "Game (6X)",
+  "type": "folder",
+  "texts": [
+    {
+      "title": "__Sinopse.txt",
+      "content": "Envolvido em uma armadilha surreal, o protagonista desperta em um labirinto psicológico em um estado mental onde o tempo e a física não fazem sentido. Dentro deste mundo onírico que desmorona gradualmente, ele deve enfrentar seus próprios demônios e encontrar uma saída antes que o sonho desmorone e sua sanidade se desfaça por completo, apagando assim sua existência"
+    }
+  ],
+  "images": [],
+  "children": [
+    {
+      "id": "node_98",
+      "name": "Characters",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [
+        {
+          "id": "node_99",
+          "name": "Protagonista",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "_Prota.jpg",
+              "url": "/assets/Games/Game__6X_/Characters/Protagonista/_Prota.jpg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__6X_/Characters/Protagonista/_Prota.jpg"
+        }
+      ],
+      "coverImage": "/assets/Games/Game__6X_/Characters/Protagonista/_Prota.jpg"
+    },
+    {
+      "id": "node_100",
+      "name": "Places",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [],
+      "coverImage": ""
+    }
+  ],
+  "coverImage": "/assets/Games/Game__6X_/Characters/Protagonista/_Prota.jpg"
+}

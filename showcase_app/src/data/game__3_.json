@@ -1,0 +1,67 @@
+{
+  "id": "node_84",
+  "name": "Game (3)",
+  "type": "folder",
+  "texts": [
+    {
+      "title": "__Sinopse.txt",
+      "content": "O grupo é lançado em uma prisão protegida por três camadas. Ao tentarem desvendar o que sustenta essas barreiras, eles descobrem uma verdade orgânica e perturbadora no núcleo da estrutura, revelando que o mundo exterior é muito mais perigoso e selvagem do que sequer podiam imaginar"
+    }
+  ],
+  "images": [],
+  "children": [
+    {
+      "id": "node_85",
+      "name": "Characters",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [
+        {
+          "id": "node_86",
+          "name": "Protagonista",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "_Prota.jpg",
+              "url": "/assets/Games/Game__3_/Characters/Protagonista/_Prota.jpg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__3_/Characters/Protagonista/_Prota.jpg"
+        },
+        {
+          "id": "node_87",
+          "name": "Queen",
+          "type": "folder",
+          "texts": [
+            {
+              "title": "__Sobre.txt (Linkado do Inspirador)",
+              "content": "A rainha fugitiva do reino. Após o acidente com o antigo rei, a rainha se viu ameaçada por todo o desenvolvimento da história. Decidiu abandonar o reino para tentar viver e trazer conforto a outras famílias que sofriam das opressões do rei atual. Após o sequestro do filho do rei, ela passou a procurá-lo, porém sem sucesso, usou sua runa e começou a fazer expedições para fora das barreiras levando algumas famílias consigo de forma discreta. O rei percebeu uma movimentação estranha então reforçou a vigilância em todas as cidades para evitar que o sequestrador fugisse, e ela viveu \"escondida e livre\" ao mesmo tempo, até o jogo 4..."
+            }
+          ],
+          "images": [
+            {
+              "name": "_QueenKid.jpg",
+              "url": "/assets/Games/Game__3_/Characters/Queen/_QueenKid.jpg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__3_/Characters/Queen/_QueenKid.jpg"
+        }
+      ],
+      "coverImage": "/assets/Games/Game__3_/Characters/Protagonista/_Prota.jpg"
+    },
+    {
+      "id": "node_88",
+      "name": "Places",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [],
+      "coverImage": ""
+    }
+  ],
+  "coverImage": "/assets/Games/Game__3_/Characters/Protagonista/_Prota.jpg"
+}

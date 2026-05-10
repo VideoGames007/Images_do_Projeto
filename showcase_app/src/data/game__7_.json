@@ -1,0 +1,71 @@
+{
+  "id": "node_101",
+  "name": "Game (7)",
+  "type": "folder",
+  "texts": [
+    {
+      "title": "__Sinopse.txt",
+      "content": "O clímax da saga reúne todas as forças restantes para o confronto final contra o monstro primordial e o mentor da destruição. Com o surgimento da Anti-Prime, uma figura capaz de anular a própria essência do poder, as batalhas finais começam. É o momento de decidir se o mundo será reiniciado ou se o vazio finalmente consumirá a totalidade"
+    }
+  ],
+  "images": [],
+  "children": [
+    {
+      "id": "node_102",
+      "name": "Characters",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [
+        {
+          "id": "node_103",
+          "name": "Protagonista",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "_Prota.jpg",
+              "url": "/assets/Games/Game__7_/Characters/Protagonista/_Prota.jpg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__7_/Characters/Protagonista/_Prota.jpg"
+        },
+        {
+          "id": "node_104",
+          "name": "Queen",
+          "type": "folder",
+          "texts": [
+            {
+              "title": "__Sobre.txt (Linkado do Inspirador)",
+              "content": "A rainha fugitiva do reino. Após o acidente com o antigo rei, a rainha se viu ameaçada por todo o desenvolvimento da história. Decidiu abandonar o reino para tentar viver e trazer conforto a outras famílias que sofriam das opressões do rei atual. Após o sequestro do filho do rei, ela passou a procurá-lo, porém sem sucesso, usou sua runa e começou a fazer expedições para fora das barreiras levando algumas famílias consigo de forma discreta. O rei percebeu uma movimentação estranha então reforçou a vigilância em todas as cidades para evitar que o sequestrador fugisse, e ela viveu \"escondida e livre\" ao mesmo tempo, até o jogo 4..."
+            }
+          ],
+          "images": [
+            {
+              "name": "_QueenOld.jpg",
+              "url": "/assets/Games/Game__7_/Characters/Queen/_QueenOld.jpg"
+            },
+            {
+              "name": "zrainha.png",
+              "url": "/assets/Games/Game__7_/Characters/Queen/zrainha.png"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__7_/Characters/Queen/_QueenOld.jpg"
+        }
+      ],
+      "coverImage": "/assets/Games/Game__7_/Characters/Protagonista/_Prota.jpg"
+    },
+    {
+      "id": "node_105",
+      "name": "Places",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [],
+      "coverImage": ""
+    }
+  ],
+  "coverImage": "/assets/Games/Game__7_/Characters/Protagonista/_Prota.jpg"
+}

@@ -1,0 +1,9 @@
+export { default as _inspirador } from './_inspirador.json';
+export { default as game__1_ } from './game__1_.json';
+export { default as game__2_ } from './game__2_.json';
+export { default as game__3_ } from './game__3_.json';
+export { default as game__4_ } from './game__4_.json';
+export { default as game__5_ } from './game__5_.json';
+export { default as game__6x_ } from './game__6x_.json';
+export { default as game__7_ } from './game__7_.json';
+export { default as rootIndex } from './indexData.json';

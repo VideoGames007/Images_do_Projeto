@@ -1,0 +1,112 @@
+{
+  "id": "node_77",
+  "name": "Game (2)",
+  "type": "folder",
+  "texts": [
+    {
+      "title": "__Sinopse.txt",
+      "content": "As consequências do passado emergem, trazendo consigo um novo rei que ascende ao poder, isolando cidades inteiras atrás de intransponíveis barreiras. Enquanto a opressão militar sufoca a liberdade, um grupo de revoltosos se vê obrigado a agir em busca da liberdade do povo, mas as coisas não terminam tão bem aos que desobedecem as ordens do rei"
+    }
+  ],
+  "images": [],
+  "children": [
+    {
+      "id": "node_78",
+      "name": "Characters",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [
+        {
+          "id": "node_79",
+          "name": "Aprendiz",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "_Aprendiz.avif",
+              "url": "/assets/Games/Game__2_/Characters/Aprendiz/_Aprendiz.avif"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__2_/Characters/Aprendiz/_Aprendiz.avif"
+        },
+        {
+          "id": "node_80",
+          "name": "Cara",
+          "type": "folder",
+          "texts": [
+            {
+              "title": "__Sobre.txt (Linkado do Inspirador)",
+              "content": "Personagem que se envolve na revolta de forma misteriosa. Ninguém nunca entendeu completamente o que fazia mas ele buscava a paz de uma forma menos sangrenta. Possui a habilidade de \"invadir memórias\" e navegar pela \"dimensão dos sonhos\". Ia usar isso para conter a fúria do rei e libertar a todos de dentro das barreiras, porém seu plano desmoronou após um certo incidente em que se iniciou uma contagem regressiva e ele foi descoberto"
+            }
+          ],
+          "images": [
+            {
+              "name": "_Cara.jpg",
+              "url": "/assets/Games/Game__2_/Characters/Cara/_Cara.jpg"
+            },
+            {
+              "name": "WhatsApp Imdxcage 2026-03-07 at 12.24.55.jpeg",
+              "url": "/assets/Games/Game__2_/Characters/Cara/WhatsApp_Imdxcage_2026-03-07_at_12.24.55.jpeg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__2_/Characters/Cara/_Cara.jpg"
+        },
+        {
+          "id": "node_81",
+          "name": "Manipulador",
+          "type": "folder",
+          "texts": [
+            {
+              "title": "__Sobre.txt (Linkado do Inspirador)",
+              "content": "Certo incidente com criminosos fez com que sua família acabasse morta quando criança. Ele quase morre também mas um dos soldados do reino chega a tempo e o salva. O soldado vê potencial nele de alguma forma e como ele não tem mais ninguém, vai fazer parte do time dos soldados. Eles se apegam como irmãos e fazem bastante coisa juntos. Um dia durante uma certa missão, ele acaba morto em batalha e os revoltosos são anunciados como culpados. Nisso ele se escurece e jura acabar com todos eles, um a um. Se infiltra no time do protagonista e sabota todos os planos de invasão contra o reino, esperando o momento ideal para acabar com todos..."
+            }
+          ],
+          "images": [
+            {
+              "name": "_Manipulador.webp",
+              "url": "/assets/Games/Game__2_/Characters/Manipulador/_Manipulador.webp"
+            },
+            {
+              "name": "_Manipulador2.jpg",
+              "url": "/assets/Games/Game__2_/Characters/Manipulador/_Manipulador2.jpg"
+            },
+            {
+              "name": "Kite_Mace3.webp",
+              "url": "/assets/Games/Game__2_/Characters/Manipulador/Kite_Mace3.webp"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__2_/Characters/Manipulador/_Manipulador.webp"
+        },
+        {
+          "id": "node_82",
+          "name": "Protagonista",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "_Prota.jpg",
+              "url": "/assets/Games/Game__2_/Characters/Protagonista/_Prota.jpg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__2_/Characters/Protagonista/_Prota.jpg"
+        }
+      ],
+      "coverImage": "/assets/Games/Game__2_/Characters/Aprendiz/_Aprendiz.avif"
+    },
+    {
+      "id": "node_83",
+      "name": "Places",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [],
+      "coverImage": ""
+    }
+  ],
+  "coverImage": "/assets/Games/Game__2_/Characters/Aprendiz/_Aprendiz.avif"
+}

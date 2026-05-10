@@ -1,0 +1,4 @@
+- usar pincel/lapis preto do paint para passar nas letras como se fossem cortes (com faiscas e tudo o mais)
+- o portal fica girando e pode aumentar e diminuir caso algo entre ou saia dele
+- TALVEZ ao invés da mão de monstro sempre, podem ter diferentes coisas puxando ou empurrando pro portal dependendo do jogo em questão. Talvez sempre mão de algo ou outras animações msm
+- e estava pensando em colocar um GIF tematico (cada jogo) pequeno ao lado dessa animação de saving (ao lado direito do portal)

@@ -1,0 +1,7 @@
+- titulos (100%)
+- sinopses (70%)
+- enredo parcial (50-70%)
+- personagens (30-60%)
+- habilidades (70%)
+- imagens/design (20%)
+- menus/mapas/mecanicas (50%)

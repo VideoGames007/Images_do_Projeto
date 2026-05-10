@@ -1,0 +1,174 @@
+{
+  "id": "node_70",
+  "name": "Game (1)",
+  "type": "folder",
+  "texts": [
+    {
+      "title": "__Sinopse.txt",
+      "content": "A jornada de dois parceiros de batalha que lutam contra forças além de sua compreensão. O que começa como uma aliança de batalha termina em tragédia: um é reduzido a uma marionete sem memórias, enquanto o outro sucumbe a uma transformação monstruosa, selando um destino que assombrará o mundo por gerações até a chegada do fim do ciclo"
+    }
+  ],
+  "images": [],
+  "children": [
+    {
+      "id": "node_71",
+      "name": "Characters",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [
+        {
+          "id": "node_72",
+          "name": "BossFinal",
+          "type": "folder",
+          "texts": [
+            {
+              "title": "__Sobre.txt (Linkado do Inspirador)",
+              "content": "Transformada nesse ser imenso após a morte de uma companheira. Ambas tinham um plano para acabar com os monstros fora das barreiras combinando suas habilidades, mas após sua morte ficou depressiva e desistiu de tudo. Alguém a força a fazer algo, e contra a sua vontade, ela vê necessidade de lutar contra essa pessoa. Nisso, ao usar sua habilidade de nvl2 de forma descontrolada, acaba se transformando e passa a enxergar os monstros que tentou destroir como sendo seus aliados agora. No jogo1 quando os protagonistas atacam monstros do seu terrítorio, um desastre acontece...\r\n\r\n\r\nNVL1 - Manipulação de Mentes\r\n\r\nNVL2 - Cura-Total\r\n\r\nNVL3 - Troca-Habilidades (CORINGA)\r\nPermite ao usuário trocar de habilidades com ou de outras pessoas"
+            }
+          ],
+          "images": [
+            {
+              "name": "_FinalBoss.png",
+              "url": "/assets/Games/Game__1_/Characters/BossFinal/_FinalBoss.png"
+            },
+            {
+              "name": "Sem títuasdfsdhgghlo - Copia.png",
+              "url": "/assets/Games/Game__1_/Characters/BossFinal/Sem_t_tuasdfsdhgghlo_-_Copia.png"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__1_/Characters/BossFinal/_FinalBoss.png"
+        },
+        {
+          "id": "node_73",
+          "name": "Gabriel",
+          "type": "folder",
+          "texts": [
+            {
+              "title": "__Sobre.txt (Linkado do Inspirador)",
+              "content": "Parceiro de guerra do Josias (Nome aleatorio - trocar). Ambos eram considerados os top3 da guilda em relação as suas habilidades e topavam qualquer missão juntos. Nisso recebem uma missão por fora da guilda e acabam não pensando nas consequências de suas ações. O bossfinal do jogo aparece e ambos não contavam com uma habilidade específica que ele teria...\r\n\r\n\r\nNVL1 - Fúria (carregamento rápido)\r\n\r\nNVL2 - Intensificar (carregamento longo)\r\n(lembra a força yoki de Claymore)\r\n\r\nNVL3 - ??? (CORINGA)\r\nhabilidade adquirida apenas em condições especiais..."
+            }
+          ],
+          "images": [
+            {
+              "name": "_Gabriel.jpg",
+              "url": "/assets/Games/Game__1_/Characters/Gabriel/_Gabriel.jpg"
+            },
+            {
+              "name": "JG1.jpg",
+              "url": "/assets/Games/Game__1_/Characters/Gabriel/JG1.jpg"
+            },
+            {
+              "name": "JG2.webp",
+              "url": "/assets/Games/Game__1_/Characters/Gabriel/JG2.webp"
+            },
+            {
+              "name": "qwerwet.png",
+              "url": "/assets/Games/Game__1_/Characters/Gabriel/qwerwet.png"
+            },
+            {
+              "name": "Sem tísdfggtulo.png",
+              "url": "/assets/Games/Game__1_/Characters/Gabriel/Sem_t_sdfggtulo.png"
+            },
+            {
+              "name": "Sem títadsgdfhfjulo.png",
+              "url": "/assets/Games/Game__1_/Characters/Gabriel/Sem_t_tadsgdfhfjulo.png"
+            },
+            {
+              "name": "Sem títuasdffglo.png",
+              "url": "/assets/Games/Game__1_/Characters/Gabriel/Sem_t_tuasdffglo.png"
+            },
+            {
+              "name": "Sem títuasdflo.png",
+              "url": "/assets/Games/Game__1_/Characters/Gabriel/Sem_t_tuasdflo.png"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__1_/Characters/Gabriel/_Gabriel.jpg"
+        },
+        {
+          "id": "node_74",
+          "name": "Jeferson",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "_Jeferson.png",
+              "url": "/assets/Games/Game__1_/Characters/Jeferson/_Jeferson.png"
+            },
+            {
+              "name": "Sem títdsgdgjghkjulo.png",
+              "url": "/assets/Games/Game__1_/Characters/Jeferson/Sem_t_tdsgdgjghkjulo.png"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__1_/Characters/Jeferson/_Jeferson.png"
+        },
+        {
+          "id": "node_75",
+          "name": "Josias",
+          "type": "folder",
+          "texts": [
+            {
+              "title": "__Sobre.txt (Linkado do Inspirador)",
+              "content": "Parceiro de guerra do Gabriel (Nome aleatorio - trocar). Ambos eram considerados os top3 da guilda em relação as suas habilidades e topavam qualquer missão juntos. Nisso recebem uma missão por fora da guilda e acabam não pensando nas consequências de suas ações. O bossfinal do jogo aparece e ambos não contavam com uma habilidade específica que ele teria...\r\n\r\n\r\nNVL1 - Phantom\r\nPermite ao usuário se mover de forma rápida, silenciosa e invisível como um fantasma.\r\n\r\nNVL2 - Bad-Luck Roulette\r\nHabilidade maneira, uma das preferidas. Vou manter segredo por enquanto\r\n"
+            }
+          ],
+          "images": [
+            {
+              "name": "_Josias.jpg",
+              "url": "/assets/Games/Game__1_/Characters/Josias/_Josias.jpg"
+            },
+            {
+              "name": "JG1.jpg",
+              "url": "/assets/Games/Game__1_/Characters/Josias/JG1.jpg"
+            },
+            {
+              "name": "JG2.webp",
+              "url": "/assets/Games/Game__1_/Characters/Josias/JG2.webp"
+            },
+            {
+              "name": "qwerwet - Copia.png",
+              "url": "/assets/Games/Game__1_/Characters/Josias/qwerwet_-_Copia.png"
+            },
+            {
+              "name": "Sem tasddsafgítulo.png",
+              "url": "/assets/Games/Game__1_/Characters/Josias/Sem_tasddsafg_tulo.png"
+            },
+            {
+              "name": "Sem títadsgdfhfjulo - Copia.png",
+              "url": "/assets/Games/Game__1_/Characters/Josias/Sem_t_tadsgdfhfjulo_-_Copia.png"
+            },
+            {
+              "name": "Sem títuasdfsdhgghlo.png",
+              "url": "/assets/Games/Game__1_/Characters/Josias/Sem_t_tuasdfsdhgghlo.png"
+            },
+            {
+              "name": "Sem títudsfhgdfhlo.png",
+              "url": "/assets/Games/Game__1_/Characters/Josias/Sem_t_tudsfhgdfhlo.png"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/Games/Game__1_/Characters/Josias/_Josias.jpg"
+        }
+      ],
+      "coverImage": "/assets/Games/Game__1_/Characters/BossFinal/_FinalBoss.png"
+    },
+    {
+      "id": "node_76",
+      "name": "Places",
+      "type": "folder",
+      "texts": [],
+      "images": [
+        {
+          "name": "Sem títulasdaasdo.png",
+          "url": "/assets/Games/Game__1_/Places/Sem_t_tulasdaasdo.png"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/Games/Game__1_/Places/Sem_t_tulasdaasdo.png"
+    }
+  ],
+  "coverImage": "/assets/Games/Game__1_/Characters/BossFinal/_FinalBoss.png"
+}

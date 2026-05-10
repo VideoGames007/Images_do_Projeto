@@ -1,0 +1,33 @@
+{
+  "id": "node_94",
+  "name": "Game (5)",
+  "type": "folder",
+  "texts": [
+    {
+      "title": "__Sinopse.txt",
+      "content": "Após acontecimentos que antecedem a história, o protagonista se vê incapacitado de continuar, enquanto uma figura do passado ressurge, assumindo o manto de última esperança na tentativa de traze-lo de volta. Movido por um desejo inexplicável, faz um pacto em troca da cura. Seu próximo passo é acabar com a vida de cada alvo para satisfazer as vontades do vilão"
+    }
+  ],
+  "images": [],
+  "children": [
+    {
+      "id": "node_95",
+      "name": "Characters",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [],
+      "coverImage": ""
+    },
+    {
+      "id": "node_96",
+      "name": "Places",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [],
+      "coverImage": ""
+    }
+  ],
+  "coverImage": ""
+}

@@ -1,0 +1,2944 @@
+{
+  "id": "node_1",
+  "name": "_INSPIRADOR",
+  "type": "folder",
+  "texts": [],
+  "images": [
+    {
+      "name": "capa_da_pasta.png",
+      "url": "/assets/_INSPIRADOR/capa_da_pasta.png"
+    }
+  ],
+  "children": [
+    {
+      "id": "node_2",
+      "name": "__LUGARES",
+      "type": "folder",
+      "texts": [
+        {
+          "title": "_CONTEXTO.txt",
+          "content": "Vai ter uma grande barreira que engloba várias cidades, juntamente com a prisão\r\n\r\nFora dessas barreiras, há um mundo todo cheio de monstros e criaturas, e pessoas vivem lá (guerreiros com sistema de guilda e habilidades \"mágicas\")\r\n\r\nDentro das barreiras é um inferno por conta dos maltratos do rei furioso com os cidadãos, porém não há monstros e habilidades\r\n\r\n\r\nEm algum momento, algo sinistro ocorrerá e trará o apocalipse\r\n\r\nE existem também os 3 chefes mais problemáticos no mundo afora (no sentido de serem \"quase\" imbatíveis"
+        }
+      ],
+      "images": [
+        {
+          "name": "4b175fc7944c0ad381f1936eb080fdf8.jpg",
+          "url": "/assets/_INSPIRADOR/__LUGARES/4b175fc7944c0ad381f1936eb080fdf8.jpg"
+        },
+        {
+          "name": "C7P62PC1H9597ZNQ6894XDZ7W0.jpeg",
+          "url": "/assets/_INSPIRADOR/__LUGARES/C7P62PC1H9597ZNQ6894XDZ7W0.jpeg"
+        },
+        {
+          "name": "images (8).webp",
+          "url": "/assets/_INSPIRADOR/__LUGARES/images__8_.webp"
+        },
+        {
+          "name": "images (9).webp",
+          "url": "/assets/_INSPIRADOR/__LUGARES/images__9_.webp"
+        },
+        {
+          "name": "images (10).webp",
+          "url": "/assets/_INSPIRADOR/__LUGARES/images__10_.webp"
+        },
+        {
+          "name": "images.webp",
+          "url": "/assets/_INSPIRADOR/__LUGARES/images.webp"
+        },
+        {
+          "name": "Sem título3.png",
+          "url": "/assets/_INSPIRADOR/__LUGARES/Sem_t_tulo3.png"
+        },
+        {
+          "name": "Sem título4.png",
+          "url": "/assets/_INSPIRADOR/__LUGARES/Sem_t_tulo4.png"
+        },
+        {
+          "name": "zestatuas1.jpeg",
+          "url": "/assets/_INSPIRADOR/__LUGARES/zestatuas1.jpeg"
+        },
+        {
+          "name": "zlab_OU_criatura_OU_irmao2.jpeg",
+          "url": "/assets/_INSPIRADOR/__LUGARES/zlab_OU_criatura_OU_irmao2.jpeg"
+        },
+        {
+          "name": "zninhocriatura.png",
+          "url": "/assets/_INSPIRADOR/__LUGARES/zninhocriatura.png"
+        },
+        {
+          "name": "zterritoriolabirinto1.jpeg",
+          "url": "/assets/_INSPIRADOR/__LUGARES/zterritoriolabirinto1.jpeg"
+        },
+        {
+          "name": "zvilaoculta_ou_cidadesbarreira1.jpeg",
+          "url": "/assets/_INSPIRADOR/__LUGARES/zvilaoculta_ou_cidadesbarreira1.jpeg"
+        },
+        {
+          "name": "zvilaoculta_OU_esconderijo.jpg",
+          "url": "/assets/_INSPIRADOR/__LUGARES/zvilaoculta_OU_esconderijo.jpg"
+        }
+      ],
+      "children": [
+        {
+          "id": "node_3",
+          "name": "_DENTRO_BARREIRAS",
+          "type": "folder",
+          "texts": [],
+          "images": [],
+          "children": [
+            {
+              "id": "node_4",
+              "name": "CABANA",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "zcabana1.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CABANA/zcabana1.png"
+                },
+                {
+                  "name": "zcabana2.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CABANA/zcabana2.jpeg"
+                },
+                {
+                  "name": "zcabana3.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CABANA/zcabana3.jpeg"
+                },
+                {
+                  "name": "zcabana17.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CABANA/zcabana17.jpeg"
+                },
+                {
+                  "name": "zpertocabana.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CABANA/zpertocabana.png"
+                },
+                {
+                  "name": "ztorretransmissão.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CABANA/ztorretransmiss_o.jpeg"
+                },
+                {
+                  "name": "ztorretransmissao3.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CABANA/ztorretransmissao3.jpeg"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CABANA/zcabana1.png"
+            },
+            {
+              "id": "node_5",
+              "name": "CIDADES",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "zcidadesbarreira2.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CIDADES/zcidadesbarreira2.png"
+                },
+                {
+                  "name": "zcidadesbarreira3.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CIDADES/zcidadesbarreira3.png"
+                },
+                {
+                  "name": "ztorrebarreira1.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CIDADES/ztorrebarreira1.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CIDADES/zcidadesbarreira2.png"
+            },
+            {
+              "id": "node_6",
+              "name": "PALACIO",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "zpalacio1.jpg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PALACIO/zpalacio1.jpg"
+                },
+                {
+                  "name": "zpalacio2.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PALACIO/zpalacio2.jpeg"
+                },
+                {
+                  "name": "zplace1.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PALACIO/zplace1.png"
+                },
+                {
+                  "name": "zplace2.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PALACIO/zplace2.jpeg"
+                },
+                {
+                  "name": "ztuneisreino.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PALACIO/ztuneisreino.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PALACIO/zpalacio1.jpg"
+            },
+            {
+              "id": "node_7",
+              "name": "PRISAO",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "best.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PRISAO/best.jpeg"
+                },
+                {
+                  "name": "zfarolprisao1.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PRISAO/zfarolprisao1.png"
+                },
+                {
+                  "name": "zprisao1.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PRISAO/zprisao1.png"
+                },
+                {
+                  "name": "zprisao2.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PRISAO/zprisao2.png"
+                },
+                {
+                  "name": "zprisao3.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PRISAO/zprisao3.png"
+                },
+                {
+                  "name": "zprisao4.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PRISAO/zprisao4.png"
+                },
+                {
+                  "name": "zprisao5.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PRISAO/zprisao5.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/PRISAO/best.jpeg"
+            }
+          ],
+          "coverImage": "/assets/_INSPIRADOR/__LUGARES/_DENTRO_BARREIRAS/CABANA/zcabana1.png"
+        },
+        {
+          "id": "node_8",
+          "name": "_MUNDO_AFORA",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "best.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/best.jpeg"
+            },
+            {
+              "name": "zplace1.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace1.jpeg"
+            },
+            {
+              "name": "zplace2.jpg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace2.jpg"
+            },
+            {
+              "name": "zplace3.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace3.jpeg"
+            },
+            {
+              "name": "zplace4.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace4.jpeg"
+            },
+            {
+              "name": "zplace5.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace5.jpeg"
+            },
+            {
+              "name": "zplace6.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace6.jpeg"
+            },
+            {
+              "name": "zplace7.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace7.jpeg"
+            },
+            {
+              "name": "zplace8.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace8.jpeg"
+            },
+            {
+              "name": "zplace9.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace9.jpeg"
+            },
+            {
+              "name": "zplace10.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace10.jpeg"
+            },
+            {
+              "name": "zplace11.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace11.jpeg"
+            },
+            {
+              "name": "zplace12.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace12.jpeg"
+            },
+            {
+              "name": "zplace13.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace13.jpeg"
+            },
+            {
+              "name": "zplace15.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace15.jpeg"
+            },
+            {
+              "name": "zplace17.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace17.png"
+            },
+            {
+              "name": "zplace18.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace18.png"
+            },
+            {
+              "name": "zplace19.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace19.jpeg"
+            },
+            {
+              "name": "zplace20.webp",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace20.webp"
+            },
+            {
+              "name": "zplace21.jpg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace21.jpg"
+            },
+            {
+              "name": "zplace22.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace22.png"
+            },
+            {
+              "name": "zplace23.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace23.png"
+            },
+            {
+              "name": "zplace24.jpg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace24.jpg"
+            },
+            {
+              "name": "zplace26.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace26.jpeg"
+            },
+            {
+              "name": "zplace27.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace27.jpeg"
+            },
+            {
+              "name": "zplace28.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace28.png"
+            },
+            {
+              "name": "zplace29.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace29.jpeg"
+            },
+            {
+              "name": "zplace30.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace30.jpeg"
+            },
+            {
+              "name": "zplace31.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace31.png"
+            },
+            {
+              "name": "zplace33.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace33.jpeg"
+            },
+            {
+              "name": "zplace34.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace34.jpeg"
+            },
+            {
+              "name": "zplace36.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace36.png"
+            },
+            {
+              "name": "zplace37.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace37.jpeg"
+            },
+            {
+              "name": "zplace38.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace38.jpeg"
+            },
+            {
+              "name": "zplace39.jpg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace39.jpg"
+            },
+            {
+              "name": "zplace40.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace40.jpeg"
+            },
+            {
+              "name": "zplace41.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace41.jpeg"
+            },
+            {
+              "name": "zplace42.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace42.jpeg"
+            },
+            {
+              "name": "zplace43.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace43.png"
+            },
+            {
+              "name": "zplace44.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace44.jpeg"
+            },
+            {
+              "name": "zplace47.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace47.jpeg"
+            },
+            {
+              "name": "zplace48.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace48.jpeg"
+            },
+            {
+              "name": "zplace49.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace49.jpeg"
+            },
+            {
+              "name": "zplace50.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace50.png"
+            },
+            {
+              "name": "zplace51.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace51.jpeg"
+            },
+            {
+              "name": "zplace52.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace52.jpeg"
+            },
+            {
+              "name": "zplace53.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace53.png"
+            },
+            {
+              "name": "zplace55.jpg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace55.jpg"
+            },
+            {
+              "name": "zplace55.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace55.png"
+            },
+            {
+              "name": "zplace57.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace57.jpeg"
+            },
+            {
+              "name": "zplace58.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/zplace58.jpeg"
+            }
+          ],
+          "children": [
+            {
+              "id": "node_9",
+              "name": "ESCONDERIJOS",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "zesconderijo.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/ESCONDERIJOS/zesconderijo.jpeg"
+                },
+                {
+                  "name": "zesconderijo2.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/ESCONDERIJOS/zesconderijo2.jpeg"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/ESCONDERIJOS/zesconderijo.jpeg"
+            },
+            {
+              "id": "node_10",
+              "name": "GENERAL",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt (Linkado do Inspirador)",
+                  "content": "Outro experimento do vilão principal (Subject49?). Imponente e perigoso, consegue impor sua vontade controlando monstros em massa como seus lacaios, e os torna inteligentes também. Será um adversário perigoso e que vai acabar com o protagonista e seu grupo na primeira vez. Seu criador teme perder o controle dele"
+                }
+              ],
+              "images": [
+                {
+                  "name": "z-image_00004_.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/GENERAL/z-image_00004_.png"
+                },
+                {
+                  "name": "zlocalgeneralflip1.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/GENERAL/zlocalgeneralflip1.png"
+                },
+                {
+                  "name": "zpensar7.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/GENERAL/zpensar7.png"
+                },
+                {
+                  "name": "zplacegeneral5.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/GENERAL/zplacegeneral5.jpeg"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/GENERAL/z-image_00004_.png"
+            },
+            {
+              "id": "node_11",
+              "name": "LABORATORIO_VILAO_PRINCIPAL",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "zlab1.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/LABORATORIO_VILAO_PRINCIPAL/zlab1.png"
+                },
+                {
+                  "name": "zlab3.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/LABORATORIO_VILAO_PRINCIPAL/zlab3.png"
+                },
+                {
+                  "name": "zlab5.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/LABORATORIO_VILAO_PRINCIPAL/zlab5.png"
+                },
+                {
+                  "name": "zlab6.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/LABORATORIO_VILAO_PRINCIPAL/zlab6.png"
+                },
+                {
+                  "name": "zlab60.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/LABORATORIO_VILAO_PRINCIPAL/zlab60.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/LABORATORIO_VILAO_PRINCIPAL/zlab1.png"
+            },
+            {
+              "id": "node_12",
+              "name": "VILAS_OCULTAS",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "zvilaoculta1.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta1.png"
+                },
+                {
+                  "name": "zvilaoculta2.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta2.jpeg"
+                },
+                {
+                  "name": "zvilaoculta3.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta3.jpeg"
+                },
+                {
+                  "name": "zvilaoculta4.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta4.png"
+                },
+                {
+                  "name": "zvilaoculta5.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta5.png"
+                },
+                {
+                  "name": "zvilaoculta6.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta6.jpeg"
+                },
+                {
+                  "name": "zvilaoculta7.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta7.jpeg"
+                },
+                {
+                  "name": "zvilaoculta8.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta8.jpeg"
+                },
+                {
+                  "name": "zvilaoculta8.jpg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta8.jpg"
+                },
+                {
+                  "name": "zvilaoculta9.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta9.jpeg"
+                },
+                {
+                  "name": "zvilaoculta10.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta10.jpeg"
+                },
+                {
+                  "name": "zvilaoculta10.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta10.png"
+                },
+                {
+                  "name": "zvilaoculta11.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta11.png"
+                },
+                {
+                  "name": "zvilaoculta17.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta17.jpeg"
+                },
+                {
+                  "name": "zvilaoculta17.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta17.png"
+                },
+                {
+                  "name": "zvilaoculta20.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta20.png"
+                },
+                {
+                  "name": "zvilaoculta26.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta26.jpeg"
+                },
+                {
+                  "name": "zviliaoculta5.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zviliaoculta5.jpeg"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/VILAS_OCULTAS/zvilaoculta1.png"
+            }
+          ],
+          "coverImage": "/assets/_INSPIRADOR/__LUGARES/_MUNDO_AFORA/best.jpeg"
+        },
+        {
+          "id": "node_13",
+          "name": "PÓS_APOCALIPSE",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "zapocalipse2.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/P_S_APOCALIPSE/zapocalipse2.jpeg"
+            },
+            {
+              "name": "zapocalipse4.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/P_S_APOCALIPSE/zapocalipse4.jpeg"
+            },
+            {
+              "name": "zapocalipse5.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/P_S_APOCALIPSE/zapocalipse5.jpeg"
+            },
+            {
+              "name": "zapocalipse6.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/P_S_APOCALIPSE/zapocalipse6.jpeg"
+            },
+            {
+              "name": "zapocalipse10.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/P_S_APOCALIPSE/zapocalipse10.jpeg"
+            },
+            {
+              "name": "zapocalipse11.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/P_S_APOCALIPSE/zapocalipse11.jpeg"
+            },
+            {
+              "name": "zapocalipse15.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/P_S_APOCALIPSE/zapocalipse15.png"
+            },
+            {
+              "name": "zapocalise1.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/P_S_APOCALIPSE/zapocalise1.png"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/__LUGARES/P_S_APOCALIPSE/zapocalipse2.jpeg"
+        },
+        {
+          "id": "node_14",
+          "name": "TRIO_CHEFES (mais problematicos)",
+          "type": "folder",
+          "texts": [],
+          "images": [],
+          "children": [
+            {
+              "id": "node_15",
+              "name": "Boss_AQUATICO",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "zabissalaquatico1.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/TRIO_CHEFES__mais_problematicos_/Boss_AQUATICO/zabissalaquatico1.jpeg"
+                },
+                {
+                  "name": "zabissalaquatico2.jpg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/TRIO_CHEFES__mais_problematicos_/Boss_AQUATICO/zabissalaquatico2.jpg"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/__LUGARES/TRIO_CHEFES__mais_problematicos_/Boss_AQUATICO/zabissalaquatico1.jpeg"
+            },
+            {
+              "id": "node_16",
+              "name": "Boss_LARVA",
+              "type": "folder",
+              "texts": [],
+              "images": [],
+              "children": [],
+              "coverImage": ""
+            },
+            {
+              "id": "node_17",
+              "name": "Dominio_BRANCO",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "606.jpg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/TRIO_CHEFES__mais_problematicos_/Dominio_BRANCO/606.jpg"
+                },
+                {
+                  "name": "WhatsApp Image 2026-01-26 at 20.26.34.jpeg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/TRIO_CHEFES__mais_problematicos_/Dominio_BRANCO/WhatsApp_Image_2026-01-26_at_20.26.34.jpeg"
+                },
+                {
+                  "name": "zdominiobranco2.png",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/TRIO_CHEFES__mais_problematicos_/Dominio_BRANCO/zdominiobranco2.png"
+                },
+                {
+                  "name": "zsominiobranco1.jpg",
+                  "url": "/assets/_INSPIRADOR/__LUGARES/TRIO_CHEFES__mais_problematicos_/Dominio_BRANCO/zsominiobranco1.jpg"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/__LUGARES/TRIO_CHEFES__mais_problematicos_/Dominio_BRANCO/606.jpg"
+            }
+          ],
+          "coverImage": "/assets/_INSPIRADOR/__LUGARES/TRIO_CHEFES__mais_problematicos_/Boss_AQUATICO/zabissalaquatico1.jpeg"
+        },
+        {
+          "id": "node_18",
+          "name": "zWin Edge",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "asasd.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/asasd.png"
+            },
+            {
+              "name": "Captura de tela 2026-02-24 114941.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-02-24_114941.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-05 145823.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-05_145823.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 112852.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_112852.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 112930.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_112930.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113006.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113006.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113055.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113055.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113112.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113112.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113136.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113136.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113147.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113147.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113200.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113200.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113234.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113234.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113249.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113249.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113328.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113328.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113400.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113400.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113432.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113432.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113439.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113439.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113455.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113455.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113541.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113541.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113630.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113630.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113639.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113639.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113655.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113655.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113712.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113712.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113736.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113736.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 113748.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_113748.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-09 114034.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-09_114034.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-12 134839.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-12_134839.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-18 112257.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-18_112257.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-23 145058.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-23_145058.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-23 145241.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-23_145241.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-23 145250.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-23_145250.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-23 145300.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-23_145300.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-23 145311.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-23_145311.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-23 145318.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-23_145318.png"
+            },
+            {
+              "name": "Captura de tela 2026-03-23 165150.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Captura_de_tela_2026-03-23_165150.png"
+            },
+            {
+              "name": "Sem tetulo.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Sem_tetulo.png"
+            },
+            {
+              "name": "Sem título.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Sem_t_tulo.png"
+            },
+            {
+              "name": "Untitled.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Untitled.png"
+            },
+            {
+              "name": "Untitledd.png",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/Untitledd.png"
+            },
+            {
+              "name": "WhatsApp Image 2026-02-13 at 15.30.41.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-02-13_at_15.30.41.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-02-19 at 11.30.09.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-02-19_at_11.30.09.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-02-28 at 13.33.25.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-02-28_at_13.33.25.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-05 at 14.58.29.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-05_at_14.58.29.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-09 at 11.40.06 (1).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-09_at_11.40.06__1_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-09 at 11.40.06 (5).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-09_at_11.40.06__5_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-09 at 11.40.06 (6).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-09_at_11.40.06__6_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-09 at 11.40.06 (7).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-09_at_11.40.06__7_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-09 at 11.40.07 (1).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-09_at_11.40.07__1_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-09 at 11.40.07 (3).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-09_at_11.40.07__3_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-11 at 07.34.40.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-11_at_07.34.40.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-12 at 13.48.53.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-12_at_13.48.53.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-18 at 11.23.15 (2).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-18_at_11.23.15__2_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-18 at 11.23.15.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-18_at_11.23.15.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-23 at 14.53.19 (1).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-23_at_14.53.19__1_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-23 at 14.53.20 (1).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-23_at_14.53.20__1_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-23 at 14.53.20 (2).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-23_at_14.53.20__2_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-03-23 at 14.53.20 (3).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-03-23_at_14.53.20__3_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-06 at 12.37.35.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-06_at_12.37.35.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-08 at 02.32.24.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-08_at_02.32.24.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-09 at 16.34.49.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-09_at_16.34.49.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-09 at 22.27.05.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-09_at_22.27.05.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-09 at 22.27.15.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-09_at_22.27.15.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-13 at 20.23.29.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-13_at_20.23.29.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-16 at 15.27.12.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-16_at_15.27.12.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-18 at 04.23.46.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-18_at_04.23.46.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-21 at 15.46.16.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-21_at_15.46.16.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-26 at 14.40.49.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-26_at_14.40.49.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-29 at 14.24.29.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-29_at_14.24.29.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-29 at 14.24.32 (1).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-29_at_14.24.32__1_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-29 at 14.24.32 (2).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-29_at_14.24.32__2_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-29 at 14.24.32 (3).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-29_at_14.24.32__3_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-29 at 14.24.32.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-29_at_14.24.32.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-30 at 14.29.55 (1).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-30_at_14.29.55__1_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-30 at 14.29.55 (2).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-30_at_14.29.55__2_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-30 at 14.29.55 (3).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-30_at_14.29.55__3_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-30 at 14.29.55 (4).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-30_at_14.29.55__4_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-30 at 14.29.55.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-30_at_14.29.55.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-30 at 21.44.18 (1).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-30_at_21.44.18__1_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-30 at 21.44.18 (2).jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-30_at_21.44.18__2_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-04-30 at 21.44.18.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-04-30_at_21.44.18.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-05-01 at 12.22.52.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-05-01_at_12.22.52.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-05-02 at 13.29.20.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-05-02_at_13.29.20.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-05-06 at 17.02.48.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-05-06_at_17.02.48.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-05-07 at 14.20.10.jpeg",
+              "url": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/WhatsApp_Image_2026-05-07_at_14.20.10.jpeg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/__LUGARES/zWin_Edge/asasd.png"
+        }
+      ],
+      "coverImage": "/assets/_INSPIRADOR/__LUGARES/4b175fc7944c0ad381f1936eb080fdf8.jpg"
+    },
+    {
+      "id": "node_19",
+      "name": "_CRIATURAS",
+      "type": "folder",
+      "texts": [
+        {
+          "title": "_CONTEXTO.txt",
+          "content": "Existem criaturas mansas/hostis/elite, e após o jogo 1 vão ter crituras controladas também\r\n\r\nAqui tem diversas e ainda não separei os tipos"
+        }
+      ],
+      "images": [
+        {
+          "name": "00023-3323723600.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/00023-3323723600.png"
+        },
+        {
+          "name": "00027-2573623614.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/00027-2573623614.png"
+        },
+        {
+          "name": "images (2).webp",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/images__2_.webp"
+        },
+        {
+          "name": "images (5).webp",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/images__5_.webp"
+        },
+        {
+          "name": "MV5BMTk5MTc0NTU3N15BMl5BanBnXkFtZTYwMDYwMzA3._V1_.jpg",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/MV5BMTk5MTc0NTU3N15BMl5BanBnXkFtZTYwMDYwMzA3._V1_.jpg"
+        },
+        {
+          "name": "PCEE1NQCS75WF3XVNZ368NZT00.jpeg",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/PCEE1NQCS75WF3XVNZ368NZT00.jpeg"
+        },
+        {
+          "name": "Screenshot 2026-02-18 172848.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/Screenshot_2026-02-18_172848.png"
+        },
+        {
+          "name": "WhatsApp Image 2026-01-11 at 00.26.26.jpeg",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/WhatsApp_Image_2026-01-11_at_00.26.26.jpeg"
+        },
+        {
+          "name": "WhatsApp Image 2026-03-05 at 14.58.20.jpeg",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/WhatsApp_Image_2026-03-05_at_14.58.20.jpeg"
+        },
+        {
+          "name": "Z4ZE8FZQM2VVJ6SWDAM700T880.jpeg",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/Z4ZE8FZQM2VVJ6SWDAM700T880.jpeg"
+        },
+        {
+          "name": "zcri3.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zcri3.png"
+        },
+        {
+          "name": "zcri4.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zcri4.png"
+        },
+        {
+          "name": "zcriat1.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zcriat1.png"
+        },
+        {
+          "name": "zcriatura1.jpg",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zcriatura1.jpg"
+        },
+        {
+          "name": "zcriatura6.jpg",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zcriatura6.jpg"
+        },
+        {
+          "name": "zint1.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zint1.png"
+        },
+        {
+          "name": "zint2.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zint2.png"
+        },
+        {
+          "name": "zint3.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zint3.png"
+        },
+        {
+          "name": "zint4.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zint4.png"
+        },
+        {
+          "name": "zint5.jpg",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zint5.jpg"
+        },
+        {
+          "name": "zint6.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zint6.png"
+        },
+        {
+          "name": "zint8.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zint8.png"
+        },
+        {
+          "name": "zint9.jpg",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zint9.jpg"
+        },
+        {
+          "name": "zint12.png",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zint12.png"
+        },
+        {
+          "name": "zint19.jpg",
+          "url": "/assets/_INSPIRADOR/_CRIATURAS/zint19.jpg"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/_INSPIRADOR/_CRIATURAS/00023-3323723600.png"
+    },
+    {
+      "id": "node_20",
+      "name": "_MONSTROS",
+      "type": "folder",
+      "texts": [
+        {
+          "title": "_CONTEXTO.txt",
+          "content": "Alguns monstros serão controlados pelo vilão principal da saga, e outros serão somente zumbis (difíceis de matar)"
+        }
+      ],
+      "images": [
+        {
+          "name": "zcri1.png",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zcri1.png"
+        },
+        {
+          "name": "zcriatu1.png",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zcriatu1.png"
+        },
+        {
+          "name": "zelite1.png",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zelite1.png"
+        },
+        {
+          "name": "zint5.png",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zint5.png"
+        },
+        {
+          "name": "zint7.jpg",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zint7.jpg"
+        },
+        {
+          "name": "zint10.png",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zint10.png"
+        },
+        {
+          "name": "zint18.jpg",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zint18.jpg"
+        },
+        {
+          "name": "zint18.png",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zint18.png"
+        },
+        {
+          "name": "zpensar.png",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zpensar.png"
+        },
+        {
+          "name": "zpensar15.png",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zpensar15.png"
+        },
+        {
+          "name": "zpensar16.png",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zpensar16.png"
+        },
+        {
+          "name": "zpensar19.png",
+          "url": "/assets/_INSPIRADOR/_MONSTROS/zpensar19.png"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/_INSPIRADOR/_MONSTROS/zcri1.png"
+    },
+    {
+      "id": "node_21",
+      "name": "_PERSONAGENS",
+      "type": "folder",
+      "texts": [
+        {
+          "title": "_CONTEXTO.txt",
+          "content": "Aqui adicionei diversos personagens de diferentes tipos e tento criar um proposito para eles existirem\r\n\r\nOs já escolhidos estão dentro da pasta _ESCOLHIDOS\r\nOs não utilizados estão na lixeira (não são ruins - apenas não tinha nome melhor)"
+        }
+      ],
+      "images": [
+        {
+          "name": "0a_mentes_divididas_GYN_ele_pode_ser_ele_por_isso_sorri_direto.jpg",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/0a_mentes_divididas_GYN_ele_pode_ser_ele_por_isso_sorri_direto.jpg"
+        },
+        {
+          "name": "3MJ40WM4V7XTY6BDC3XJ6D4PF0.jpg",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/3MJ40WM4V7XTY6BDC3XJ6D4PF0.jpg"
+        },
+        {
+          "name": "5d65c69f-b5b9-4565-8edc-c2464046996f.png",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/5d65c69f-b5b9-4565-8edc-c2464046996f.png"
+        },
+        {
+          "name": "6a3510ba-695c-4249-98ce-cee02e2f51fe.png",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/6a3510ba-695c-4249-98ce-cee02e2f51fe.png"
+        },
+        {
+          "name": "9bb2283e-1ff8-4f03-a155-e49d257b5b87.png",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/9bb2283e-1ff8-4f03-a155-e49d257b5b87.png"
+        },
+        {
+          "name": "00011-867359442.jpeg",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/00011-867359442.jpeg"
+        },
+        {
+          "name": "00085-2556656882.png",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/00085-2556656882.png"
+        },
+        {
+          "name": "2025-07-22-230455face-Ultimate-4k-_00000.png",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/2025-07-22-230455face-Ultimate-4k-_00000.png"
+        },
+        {
+          "name": "2025-07-22-230939face-Ultimate-4k-_00000.png",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/2025-07-22-230939face-Ultimate-4k-_00000.png"
+        },
+        {
+          "name": "baf01246-2da0-4c1f-b179-02074e069a68.avif",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/baf01246-2da0-4c1f-b179-02074e069a68.avif"
+        },
+        {
+          "name": "c5bf3df49ac4ba8a9e9ad2c758eeba2a.jpg",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/c5bf3df49ac4ba8a9e9ad2c758eeba2a.jpg"
+        },
+        {
+          "name": "dealgumaguilda.png",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/dealgumaguilda.png"
+        },
+        {
+          "name": "eb14fa55-186a-48a6-8cb2-b75ab325731f.avif",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/eb14fa55-186a-48a6-8cb2-b75ab325731f.avif"
+        },
+        {
+          "name": "filme_7283.jpg",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/filme_7283.jpg"
+        },
+        {
+          "name": "fortao_e_parceira.jpeg",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/fortao_e_parceira.jpeg"
+        },
+        {
+          "name": "Gon-and-Killua.avif",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/Gon-and-Killua.avif"
+        },
+        {
+          "name": "images (7).webp",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/images__7_.webp"
+        },
+        {
+          "name": "insp1.png",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/insp1.png"
+        },
+        {
+          "name": "kite-run.png",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/kite-run.png"
+        },
+        {
+          "name": "nflvji8l5ycf1.jpeg",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/nflvji8l5ycf1.jpeg"
+        },
+        {
+          "name": "Robinsons03-740x416.jpg",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/Robinsons03-740x416.jpg"
+        },
+        {
+          "name": "Segfhm título.png",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/Segfhm_t_tulo.png"
+        },
+        {
+          "name": "WhatsApp Image 202asdf6-04-04 at 17.48.29.jpeg",
+          "url": "/assets/_INSPIRADOR/_PERSONAGENS/WhatsApp_Image_202asdf6-04-04_at_17.48.29.jpeg"
+        }
+      ],
+      "children": [
+        {
+          "id": "node_22",
+          "name": "_EM_USO",
+          "type": "folder",
+          "texts": [
+            {
+              "title": "_EXPLICAÇÃO.txt",
+              "content": "O primeiro número após o G é referente ao jogo em que o personagem é introduzido na saga, os demais são representam os jogos em que ele aparece também"
+            }
+          ],
+          "images": [
+            {
+              "name": "2025-05-30 - 17.39.50_00001_.png",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/2025-05-30_-_17.39.50_00001_.png"
+            },
+            {
+              "name": "dsfg.png",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/dsfg.png"
+            },
+            {
+              "name": "image (3).jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/image__3_.jpg"
+            },
+            {
+              "name": "images (3).webp",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/images__3_.webp"
+            },
+            {
+              "name": "manipulador_OU_chefeMercenarios.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/manipulador_OU_chefeMercenarios.jpg"
+            },
+            {
+              "name": "mercenário_q_usa_foices_TALVEZ_aquela_mulher_de_preto_seria.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/mercen_rio_q_usa_foices_TALVEZ_aquela_mulher_de_preto_seria.jpg"
+            },
+            {
+              "name": "prota_contra_josias.webp",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/prota_contra_josias.webp"
+            },
+            {
+              "name": "QX0HNPE23XKVA9T53K1ESVS1Z0.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/QX0HNPE23XKVA9T53K1ESVS1Z0.jpg"
+            },
+            {
+              "name": "sersupremo_doceu.png",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/sersupremo_doceu.png"
+            },
+            {
+              "name": "soldadaalta3_ajudantedofortao_OU_chefemercenarios_OU_mercenaria_OU_aprendiz.png",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/soldadaalta3_ajudantedofortao_OU_chefemercenarios_OU_mercenaria_OU_aprendiz.png"
+            },
+            {
+              "name": "zgostei1.png",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/zgostei1.png"
+            },
+            {
+              "name": "zpensar.jpeg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/zpensar.jpeg"
+            },
+            {
+              "name": "zpensar8.png",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/zpensar8.png"
+            }
+          ],
+          "children": [
+            {
+              "id": "node_23",
+              "name": "G1_47_Gabriel",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "Parceiro de guerra do Josias (Nome aleatorio - trocar). Ambos eram considerados os top3 da guilda em relação as suas habilidades e topavam qualquer missão juntos. Nisso recebem uma missão por fora da guilda e acabam não pensando nas consequências de suas ações. O bossfinal do jogo aparece e ambos não contavam com uma habilidade específica que ele teria...\r\n\r\n\r\nNVL1 - Fúria (carregamento rápido)\r\n\r\nNVL2 - Intensificar (carregamento longo)\r\n(lembra a força yoki de Claymore)\r\n\r\nNVL3 - ??? (CORINGA)\r\nhabilidade adquirida apenas em condições especiais..."
+                }
+              ],
+              "images": [
+                {
+                  "name": "_Gabriel.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_47_Gabriel/_Gabriel.jpg"
+                },
+                {
+                  "name": "JG1.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_47_Gabriel/JG1.jpg"
+                },
+                {
+                  "name": "JG2.webp",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_47_Gabriel/JG2.webp"
+                },
+                {
+                  "name": "qwerwet.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_47_Gabriel/qwerwet.png"
+                },
+                {
+                  "name": "Sem tísdfggtulo.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_47_Gabriel/Sem_t_sdfggtulo.png"
+                },
+                {
+                  "name": "Sem títadsgdfhfjulo.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_47_Gabriel/Sem_t_tadsgdfhfjulo.png"
+                },
+                {
+                  "name": "Sem títuasdffglo.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_47_Gabriel/Sem_t_tuasdffglo.png"
+                },
+                {
+                  "name": "Sem títuasdflo.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_47_Gabriel/Sem_t_tuasdflo.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_47_Gabriel/_Gabriel.jpg"
+            },
+            {
+              "id": "node_24",
+              "name": "G1_357_VilaoSaga",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "O vilão maldito da saga. É um cientista que tentou uma vez ajudar a humanidade, porém se perdeu após certos incidentes ocorridos após o jogo1. Nisso, despertou como um ser supremo e começou a tornar a vida de todos um caos sem igual. O cenário anterior já era terrível, porém se tornou caótico com monstros cada vez mais fortes e agressivos...\r\n\r\nNVL1 - Necromancia\r\n\r\nNVL2 - Personalidades\r\nPermite ao usuário alternar entre personalidades de forma perfeita. Ótimo para missões de infiltração, manipulação e coleta de informações. Pode alternar entre: alegre, sério, irritado, furioso, medroso, corajoso, etc...  \r\n\r\n??? - (CORINGA)\r\nHabilidade adquirida apenas em condições especiais... "
+                }
+              ],
+              "images": [
+                {
+                  "name": "_Jeferson.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_357_VilaoSaga/_Jeferson.png"
+                },
+                {
+                  "name": "Sem títdsgdgjghkjulo.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_357_VilaoSaga/Sem_t_tdsgdgjghkjulo.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_357_VilaoSaga/_Jeferson.png"
+            },
+            {
+              "id": "node_25",
+              "name": "G1_3457_Josias",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "Parceiro de guerra do Gabriel (Nome aleatorio - trocar). Ambos eram considerados os top3 da guilda em relação as suas habilidades e topavam qualquer missão juntos. Nisso recebem uma missão por fora da guilda e acabam não pensando nas consequências de suas ações. O bossfinal do jogo aparece e ambos não contavam com uma habilidade específica que ele teria...\r\n\r\n\r\nNVL1 - Phantom\r\nPermite ao usuário se mover de forma rápida, silenciosa e invisível como um fantasma.\r\n\r\nNVL2 - Bad-Luck Roulette\r\nHabilidade maneira, uma das preferidas. Vou manter segredo por enquanto\r\n"
+                }
+              ],
+              "images": [
+                {
+                  "name": "_Josias.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_3457_Josias/_Josias.jpg"
+                },
+                {
+                  "name": "JG1.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_3457_Josias/JG1.jpg"
+                },
+                {
+                  "name": "JG2.webp",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_3457_Josias/JG2.webp"
+                },
+                {
+                  "name": "qwerwet - Copia.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_3457_Josias/qwerwet_-_Copia.png"
+                },
+                {
+                  "name": "Sem tasddsafgítulo.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_3457_Josias/Sem_tasddsafg_tulo.png"
+                },
+                {
+                  "name": "Sem títadsgdfhfjulo - Copia.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_3457_Josias/Sem_t_tadsgdfhfjulo_-_Copia.png"
+                },
+                {
+                  "name": "Sem títuasdfsdhgghlo.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_3457_Josias/Sem_t_tuasdfsdhgghlo.png"
+                },
+                {
+                  "name": "Sem títudsfhgdfhlo.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_3457_Josias/Sem_t_tudsfhgdfhlo.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_3457_Josias/_Josias.jpg"
+            },
+            {
+              "id": "node_26",
+              "name": "G1_BossFinal",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "Transformada nesse ser imenso após a morte de uma companheira. Ambas tinham um plano para acabar com os monstros fora das barreiras combinando suas habilidades, mas após sua morte ficou depressiva e desistiu de tudo. Alguém a força a fazer algo, e contra a sua vontade, ela vê necessidade de lutar contra essa pessoa. Nisso, ao usar sua habilidade de nvl2 de forma descontrolada, acaba se transformando e passa a enxergar os monstros que tentou destroir como sendo seus aliados agora. No jogo1 quando os protagonistas atacam monstros do seu terrítorio, um desastre acontece...\r\n\r\n\r\nNVL1 - Manipulação de Mentes\r\n\r\nNVL2 - Cura-Total\r\n\r\nNVL3 - Troca-Habilidades (CORINGA)\r\nPermite ao usuário trocar de habilidades com ou de outras pessoas"
+                }
+              ],
+              "images": [
+                {
+                  "name": "_FinalBoss.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_BossFinal/_FinalBoss.png"
+                },
+                {
+                  "name": "Sem títuasdfsdhgghlo - Copia.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_BossFinal/Sem_t_tuasdfsdhgghlo_-_Copia.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G1_BossFinal/_FinalBoss.png"
+            },
+            {
+              "id": "node_27",
+              "name": "G2_3_Manipulador",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "Certo incidente com criminosos fez com que sua família acabasse morta quando criança. Ele quase morre também mas um dos soldados do reino chega a tempo e o salva. O soldado vê potencial nele de alguma forma e como ele não tem mais ninguém, vai fazer parte do time dos soldados. Eles se apegam como irmãos e fazem bastante coisa juntos. Um dia durante uma certa missão, ele acaba morto em batalha e os revoltosos são anunciados como culpados. Nisso ele se escurece e jura acabar com todos eles, um a um. Se infiltra no time do protagonista e sabota todos os planos de invasão contra o reino, esperando o momento ideal para acabar com todos..."
+                }
+              ],
+              "images": [
+                {
+                  "name": "_Manipulador.webp",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_3_Manipulador/_Manipulador.webp"
+                },
+                {
+                  "name": "_Manipulador2.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_3_Manipulador/_Manipulador2.jpg"
+                },
+                {
+                  "name": "Kite_Mace3.webp",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_3_Manipulador/Kite_Mace3.webp"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_3_Manipulador/_Manipulador.webp"
+            },
+            {
+              "id": "node_28",
+              "name": "G2_37_Cara",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "Personagem que se envolve na revolta de forma misteriosa. Ninguém nunca entendeu completamente o que fazia mas ele buscava a paz de uma forma menos sangrenta. Possui a habilidade de \"invadir memórias\" e navegar pela \"dimensão dos sonhos\". Ia usar isso para conter a fúria do rei e libertar a todos de dentro das barreiras, porém seu plano desmoronou após um certo incidente em que se iniciou uma contagem regressiva e ele foi descoberto"
+                }
+              ],
+              "images": [
+                {
+                  "name": "_Cara.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_37_Cara/_Cara.jpg"
+                },
+                {
+                  "name": "WhatsApp Imdxcage 2026-03-07 at 12.24.55.jpeg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_37_Cara/WhatsApp_Imdxcage_2026-03-07_at_12.24.55.jpeg"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_37_Cara/_Cara.jpg"
+            },
+            {
+              "id": "node_29",
+              "name": "G2_347_Aprendiz",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "_Sobre.txt",
+                  "content": "Seus pais foram mortos por participarem de forma ativa na revolta contra o rei. Após anos de solidão, uma personagem do passado se infiltra na cidade e acaba de alguma forma se apegando a ela. Ambas vivem juntas por um tempo, até que a personagem começa a treiná-la para se defender dos soldados quando necessário, e a partir daí, a personagem ficou conhecida como sendo sua mestra. Após algum tempo nos fervores da revolta, sua mestra some e ela começa a sua busca..."
+                }
+              ],
+              "images": [
+                {
+                  "name": "__Aprendiz.avif",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_347_Aprendiz/__Aprendiz.avif"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_347_Aprendiz/__Aprendiz.avif"
+            },
+            {
+              "id": "node_30",
+              "name": "G2_3467_Protagonista",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "_Sobre.txt",
+                  "content": "Introduzido no jogo2, protagonizará até o fim de tudo. Acolhido desde a infância pela revolta, cresceu e se tornou um dos braços direitos de seu líder. Entre o esquadrão, sua força só era equiparada com seu rival prota2 do jogo (SEM NOME AINDA)"
+                }
+              ],
+              "images": [
+                {
+                  "name": "__Prota.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_3467_Protagonista/__Prota.jpg"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G2_3467_Protagonista/__Prota.jpg"
+            },
+            {
+              "id": "node_31",
+              "name": "G3_47_General",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "Outro experimento do vilão principal (Subject49?). Imponente e perigoso, consegue impor sua vontade controlando monstros em massa como seus lacaios, e os torna inteligentes também. Será um adversário perigoso e que vai acabar com o protagonista e seu grupo na primeira vez. Seu criador teme perder o controle dele"
+                }
+              ],
+              "images": [
+                {
+                  "name": "zgeneral.jpeg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G3_47_General/zgeneral.jpeg"
+                },
+                {
+                  "name": "zgeneral.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G3_47_General/zgeneral.jpg"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G3_47_General/zgeneral.jpeg"
+            },
+            {
+              "id": "node_32",
+              "name": "G3_457_Queen",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "A rainha fugitiva do reino. Após o acidente com o antigo rei, a rainha se viu ameaçada por todo o desenvolvimento da história. Decidiu abandonar o reino para tentar viver e trazer conforto a outras famílias que sofriam das opressões do rei atual. Após o sequestro do filho do rei, ela passou a procurá-lo, porém sem sucesso, usou sua runa e começou a fazer expedições para fora das barreiras levando algumas famílias consigo de forma discreta. O rei percebeu uma movimentação estranha então reforçou a vigilância em todas as cidades para evitar que o sequestrador fugisse, e ela viveu \"escondida e livre\" ao mesmo tempo, até o jogo 4..."
+                }
+              ],
+              "images": [
+                {
+                  "name": "_QueenKid.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G3_457_Queen/_QueenKid.jpg"
+                },
+                {
+                  "name": "_QueenOld.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G3_457_Queen/_QueenOld.jpg"
+                },
+                {
+                  "name": "_QueenYoung.jpg",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G3_457_Queen/_QueenYoung.jpg"
+                },
+                {
+                  "name": "zrainha.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G3_457_Queen/zrainha.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G3_457_Queen/_QueenKid.jpg"
+            },
+            {
+              "id": "node_33",
+              "name": "G3_X_ChefeMercenarios",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "Sei lá, chefe dos mercenários. Nunca teve o protagonista e seu grupo como alvo, porém a comando de alguém misterioso (o viajante - personagem EXTREMAMENTE relevante), teve que roubar um certo item do prota. AO longo do jogo, algo vai acontecer e parte de seus capangas serão dizimados por seus outros contratantes (soldados que querem eliminar o prota). Nisso o prota e ele escapam juntos e ele passa a fazer parte da equipe"
+                }
+              ],
+              "images": [
+                {
+                  "name": "capa_da_pasta.webp",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G3_X_ChefeMercenarios/capa_da_pasta.webp"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G3_X_ChefeMercenarios/capa_da_pasta.webp"
+            },
+            {
+              "id": "node_34",
+              "name": "G4_5_MaquinaMortifera",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "Robô criado com o bom propósito de proteger a humanidade, porém algo deu errado e ele se voltou contra quem devia proteger. Vive isolado numa área específica e ataca quem chega perto, idependente se monstro ou pessoas normais (quaisquer seres vivos). Como o propósito de sua criação foi ser o mais forte e indestrutível, seus componentes são extremamente duros e suas armas letais. Até mesmo guerreiros que se consideram os mais fortes temem uma batalha contra ele. O protagonista em algum momento precisará recuperar um componente utilizado em sua composição"
+                }
+              ],
+              "images": [
+                {
+                  "name": "zindestrurobo.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G4_5_MaquinaMortifera/zindestrurobo.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G4_5_MaquinaMortifera/zindestrurobo.png"
+            },
+            {
+              "id": "node_35",
+              "name": "G5_Subject06",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "__Sobre.txt",
+                  "content": "Ela foi vítima de experimentos causados pelo vilão principal. Em sua antiga identidade, guerreava em parceria com o personagem mais forte da saga, porém após seu sumiço, ela foi investigar e foi capturada. Sua habilidade se chama \"Mundo Ilusório\" e permite criar ilusões extremamente realistas (como genjutsu de Naruto) as quais o alvo sente todo o dano causado na ilusão e sente fadiga extrema quando a habilidade sessa. É uma habilidade de enfraquecimento\r\n\r\nContra:\r\nEla também entra na ilusão como participante ativa. Tanto o corpo do alvo quanto o seu próprio corpo ficam vulneráveis a ataques externos de seres fora do alcance de seu domínio"
+                }
+              ],
+              "images": [
+                {
+                  "name": "ajudantedofortao_subject06.png",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G5_Subject06/ajudantedofortao_subject06.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/G5_Subject06/ajudantedofortao_subject06.png"
+            }
+          ],
+          "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/_EM_USO/2025-05-30_-_17.39.50_00001_.png"
+        },
+        {
+          "id": "node_36",
+          "name": "Created by IA",
+          "type": "folder",
+          "texts": [
+            {
+              "title": "definitive_queen_forms.txt",
+              "content": "oreateai.com\r\n\r\nA high fantasy cinematic composition divided into three distinct environments, showing three versions of the same queen at different stages of life, clearly the same person through identical luminous violet eyes and silver-white hair. On the left: Her child form (around 8 years old) standing in a vibrant, colorful natural landscape filled with wildflowers, green grass, butterflies, and warm sunlight. The sky is bright blue with soft clouds. She has long silver-white hair and glowing violet eyes. She wears a simple but elegant light dress in soft pastel colors (lavender, pale blue, soft pink), no crown. Her expression is curious yet strangely wise. The lighting is warm, joyful, and full of life. In the center: Her young adult form (around 25 years old) standing inside a magnificent sunlit palace with tall marble columns, large crystal windows, and golden light pouring in. She wears full royal attire — an elegant white and lavender gown with intricate gold embroidery and refined details. A graceful golden crown rests on her head. She stands confidently, calm and powerful, embodying her reign. The atmosphere is majestic, radiant, and divine. On the right: Her elderly form (around 70 years old) standing inside a cavern illuminated by torches. The cave walls glow with warm tones of red, brown, orange, and yellow from the firelight. Shadows dance across the stone. She has long silver-white hair, partially braided, glowing violet eyes full of ancient wisdom, and dignified wrinkles. She wears heavy, layered robes in deep earthy tones (burgundy, bronze, dark gold), richly textured but without a crown. Her presence feels powerful and ancient, calm yet overwhelming. All three are visually connected by faint shimmering threads of light linking them across the three environments, symbolizing they are one being across time and form. Ultra-detailed, cinematic fantasy art, realistic style, dramatic but balanced lighting, 4k resolution, sharp focus, epic composition."
+            },
+            {
+              "title": "man1.txt",
+              "content": "toolkit.artlist.io\r\n\r\nStylized fantasy game art illustration of a mysterious man inside a small wooden cabin laboratory. The cabin is dimly lit, with warm light entering through a small square window beside the wooden door. Dust particles float in the air, and wooden shelves filled with glass bottles and strange glowing liquids line the walls. A simple wooden table in front of him holds flasks, vials, and bubbling fluids in different colors (green, blue, purple).\r\n\r\nThe man is bald, with sharp facial features and an intense, focused expression. He looks intelligent and slightly unsettling, but calm and controlled. He wears layered alchemist-style clothing in dark neutral tones with strong brown and deep red elements — a long brown coat with red inner lining, leather straps across his chest, rolled-up sleeves, protective gloves, and subtle stain marks from experiments. Parts of his outfit show light wear and chemical splashes for detail.\r\n\r\nOne hand holds a glowing flask with swirling liquid, while the other adjusts a glass tube connected to a small bubbling container. Warm torch or lantern light mixes with faint colored glows from the fluids, creating an atmospheric but not realistic lighting style.\r\n\r\nStylized proportions, clean linework, vibrant but controlled colors, detailed game concept art style, semi-cartoon fantasy aesthetic, sharp focus, RPG character design illustration."
+            },
+            {
+              "title": "queen_kid.txt",
+              "content": "oreateai.com\r\n\r\nA mysterious young queen in the form of a little girl, around 8 years old, standing in a dark fantasy throne room. She has long silver-white hair with soft waves, glowing violet eyes, and pale luminous skin. She wears a delicate but regal black and deep purple dress with subtle gold embroidery, a small elegant crown floating slightly above her head. Her expression is calm, wise, and unsettlingly mature for a child. A faint magical aura surrounds her, with tiny floating particles of light in the air. The atmosphere is dramatic and cinematic, with soft shadows, volumetric lighting, ultra-detailed, high fantasy art, realistic style, 4k resolution, sharp focus, intricate textures, dark royal aesthetic."
+            },
+            {
+              "title": "queen_trio.txt",
+              "content": "oreateai.com\r\n\r\nA radiant fantasy queen in her prime, appearing as a young woman around 25 years old, standing inside a magnificent palace filled with warm golden sunlight. Large marble columns, tall crystal windows, and flowing white curtains surround her. Soft light beams enter the hall, creating a bright and majestic atmosphere.\r\n\r\nShe has long flowing silver-white hair that shines under the sunlight, luminous violet eyes, and smooth pale skin. Her expression is serene, confident, and wise. She wears an elegant royal gown in white and soft lavender with delicate gold embroidery, light flowing fabric, and refined details. A graceful golden crown rests on her head, subtle but regal.\r\n\r\nThe atmosphere feels divine and hopeful rather than dark. Bright cinematic lighting, high fantasy art, ultra-detailed, realistic style, soft glow, 4k resolution, sharp focus, ethereal and majestic mood."
+            },
+            {
+              "title": "queen_young.txt",
+              "content": "oreateai.com\r\n\r\nUltra-realistic fashion portrait of a beautiful young woman with sharp, symmetrical features and flawless pale skin, sitting gracefully on a vintage cream and gold damask chaise lounge in an opulent classic interior. She wears an exquisite ivory silk corset dress with sheer long bishop sleeves, a delicate lace-trimmed deep V-neckline, and subtle embroidered patterns on the bodice. The silk fabric catches soft ambient light, showing realistic folds and reflections, while the chiffon sleeves are semi-transparent, flowing elegantly. Her hair is styled in soft, elegant waves, and her makeup is refined, emphasizing her striking eyes, high cheekbones, and natural glow. A warm floor lamp with a fringed shade on the left casts a cozy golden glow, creating gentle shadows and depth across the chaise and wooden floor. The background features tall classic interior elements, subtly blurred with bokeh, highlighting the subject. Every element is captured with ultra-realistic textures: skin pores, lace intricacies, silk sheen, wood grain, and upholstery details. The scene is rendered in cinematic lighting, 8K resolution, photorealistic textures, high-fashion editorial style, sophisticated, timeless, and luxurious.\", \"settings\": { \"ar\": \"9:16\", \"style\": \"ultra-realistic, cinematic, fashion editorial photography\", \"lighting\": \"warm ambient lighting from floor lamp, soft highlights, subtle shadows, volumetric depth\", \"camera\": \"85mm lens, shallow depth of field, precise focus on face and dress details\", \"render_quality\": \"photorealistic textures, hyper-det"
+            },
+            {
+              "title": "two_friends.txt",
+              "content": "toolkit.artlist.io\r\n\r\nStylized fantasy game art illustration of two ancient warrior friends standing side by side on open earth terrain with dry cracked ground and small patches of short green grass. Bright daylight, clear sky, vibrant colors, semi-cartoon / stylized game aesthetic (not realistic, not cinematic movie style).\r\n\r\nBoth hold swords in relaxed but ready positions, standing confidently. Their expressions show natural, relaxed smiles — the kind shared between close friends before a battle, calm and confident, not exaggerated.\r\n\r\nThe warrior on the left wears a bold red outfit with gold accents. His clothing is light armor mixed with cloth — a red sleeveless tunic with asymmetrical design, leather shoulder guard on one side, arm wraps, and visible stylized scratch marks and worn edges for personality. Brown leather belt with small pouches. Tall rugged boots. He has medium-length blond hair, slightly spiky and energetic. His posture is forward-leaning and dynamic, suggesting he is impulsive and fiery.\r\n\r\nThe warrior on the right wears a deep blue outfit with silver accents. His design is more structured and tactical — long-sleeved blue battle coat with layered fabric panels, subtle scratch details, reinforced gloves, and cleaner but still battle-worn textures. Dark belt and fitted boots. He has black hair, straighter and slightly longer, giving him a calmer and more strategic appearance. His posture is balanced and composed.\r\n\r\nTheir outfits clearly contrast in shape, silhouette, and personality — one energetic and bold (red), the other calm and calculated (blue). Stylized proportions, clean linework, vibrant colors, high-detail game concept art, sharp focus, character design sheet quality, fantasy RPG style."
+            }
+          ],
+          "images": [
+            {
+              "name": "definitive_queen_forms.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/Created_by_IA/definitive_queen_forms.jpg"
+            },
+            {
+              "name": "man1.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/Created_by_IA/man1.jpg"
+            },
+            {
+              "name": "queen_kid.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/Created_by_IA/queen_kid.jpg"
+            },
+            {
+              "name": "queen_trio.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/Created_by_IA/queen_trio.jpg"
+            },
+            {
+              "name": "queen_young.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/Created_by_IA/queen_young.jpg"
+            },
+            {
+              "name": "two_friends.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/Created_by_IA/two_friends.jpg"
+            },
+            {
+              "name": "z-image-turbo_00199__6BLVlp.webp",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/Created_by_IA/z-image-turbo_00199__6BLVlp.webp"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/Created_by_IA/definitive_queen_forms.jpg"
+        },
+        {
+          "id": "node_37",
+          "name": "GRUPOS",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "527141559_673981718995192_2349626193839136040_n.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/527141559_673981718995192_2349626193839136040_n.jpg"
+            },
+            {
+              "name": "b1167e28-c5ea-4c65-a335-0fca79f6ff31.avif",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/b1167e28-c5ea-4c65-a335-0fca79f6ff31.avif"
+            },
+            {
+              "name": "hunter-hunter-phantom-troupe-members.avif",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/hunter-hunter-phantom-troupe-members.avif"
+            },
+            {
+              "name": "Hunter.webp",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/Hunter.webp"
+            },
+            {
+              "name": "maxresdefault.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/maxresdefault.jpg"
+            },
+            {
+              "name": "mercenarios.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/mercenarios.jpg"
+            },
+            {
+              "name": "mercenarios2.jpg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/mercenarios2.jpg"
+            },
+            {
+              "name": "Phantom_Troupe_2011.webp",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/Phantom_Troupe_2011.webp"
+            },
+            {
+              "name": "Phantom_Troupe.webp",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/Phantom_Troupe.webp"
+            },
+            {
+              "name": "revoltosos.jpeg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/revoltosos.jpeg"
+            },
+            {
+              "name": "zmercenarios_OU_guildastrevas.jpeg",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/zmercenarios_OU_guildastrevas.jpeg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/GRUPOS/527141559_673981718995192_2349626193839136040_n.jpg"
+        },
+        {
+          "id": "node_38",
+          "name": "SITUAÇÕES",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "$_12.png",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/SITUA__ES/__12.png"
+            },
+            {
+              "name": "grupo_prisao.webp",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/SITUA__ES/grupo_prisao.webp"
+            },
+            {
+              "name": "Sem títgdfulo.png",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/SITUA__ES/Sem_t_tgdfulo.png"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/SITUA__ES/__12.png"
+        },
+        {
+          "id": "node_39",
+          "name": "zzzLIXO",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "capa_da_pasta.webp",
+              "url": "/assets/_INSPIRADOR/_PERSONAGENS/zzzLIXO/capa_da_pasta.webp"
+            }
+          ],
+          "children": [
+            {
+              "id": "node_40",
+              "name": "Não_Usados",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "Melonenmann.webp",
+                  "url": "/assets/_INSPIRADOR/_PERSONAGENS/zzzLIXO/N_o_Usados/Melonenmann.webp"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/zzzLIXO/N_o_Usados/Melonenmann.webp"
+            }
+          ],
+          "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/zzzLIXO/capa_da_pasta.webp"
+        }
+      ],
+      "coverImage": "/assets/_INSPIRADOR/_PERSONAGENS/0a_mentes_divididas_GYN_ele_pode_ser_ele_por_isso_sorri_direto.jpg"
+    },
+    {
+      "id": "node_41",
+      "name": "_SERES_SUPREMOS",
+      "type": "folder",
+      "texts": [],
+      "images": [
+        {
+          "name": "9667620e-4675-4e47-a0f1-b620e649aa63.jpeg",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/9667620e-4675-4e47-a0f1-b620e649aa63.jpeg"
+        },
+        {
+          "name": "Sem_t_tuasdffglo.png",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/Sem_t_tuasdffglo.png"
+        },
+        {
+          "name": "Sem_t_tuasdflo.png",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/Sem_t_tuasdflo.png"
+        },
+        {
+          "name": "zint20.png",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zint20.png"
+        },
+        {
+          "name": "zjefersonfinal.jpeg",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zjefersonfinal.jpeg"
+        },
+        {
+          "name": "zoldintensificar.jpeg",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zoldintensificar.jpeg"
+        },
+        {
+          "name": "zpensar1.jpeg",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zpensar1.jpeg"
+        },
+        {
+          "name": "zpensar3.png",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zpensar3.png"
+        },
+        {
+          "name": "zpensar4.png",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zpensar4.png"
+        },
+        {
+          "name": "zpensar5.jpeg",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zpensar5.jpeg"
+        },
+        {
+          "name": "zpensar6.jpeg",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zpensar6.jpeg"
+        },
+        {
+          "name": "zpensar7.jpeg",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zpensar7.jpeg"
+        },
+        {
+          "name": "zpensar9.png",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zpensar9.png"
+        },
+        {
+          "name": "zpensar10.png",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zpensar10.png"
+        },
+        {
+          "name": "zpensar11.png",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zpensar11.png"
+        },
+        {
+          "name": "zpensar14.jpeg",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zpensar14.jpeg"
+        },
+        {
+          "name": "zsubject1.png",
+          "url": "/assets/_INSPIRADOR/_SERES_SUPREMOS/zsubject1.png"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/_INSPIRADOR/_SERES_SUPREMOS/9667620e-4675-4e47-a0f1-b620e649aa63.jpeg"
+    },
+    {
+      "id": "node_42",
+      "name": "CAPAS",
+      "type": "folder",
+      "texts": [],
+      "images": [
+        {
+          "name": "Jogo 6.jpg",
+          "url": "/assets/_INSPIRADOR/CAPAS/Jogo_6.jpg"
+        },
+        {
+          "name": "Jogo 7.jpg",
+          "url": "/assets/_INSPIRADOR/CAPAS/Jogo_7.jpg"
+        },
+        {
+          "name": "MV5BMTEwNzIxNDIwMTZeQTJeQWpwZ15BbWU4MDM0MDM2MjAy._V1_.jpg",
+          "url": "/assets/_INSPIRADOR/CAPAS/MV5BMTEwNzIxNDIwMTZeQTJeQWpwZ15BbWU4MDM0MDM2MjAy._V1_.jpg"
+        },
+        {
+          "name": "Sem título.png",
+          "url": "/assets/_INSPIRADOR/CAPAS/Sem_t_tulo.png"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/_INSPIRADOR/CAPAS/Jogo_6.jpg"
+    },
+    {
+      "id": "node_43",
+      "name": "FINALBOSS_GAME1_or_DREAM",
+      "type": "folder",
+      "texts": [],
+      "images": [
+        {
+          "name": "00015-fluxArtFusionV10Fp8_v10Fp8.jpeg",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/00015-fluxArtFusionV10Fp8_v10Fp8.jpeg"
+        },
+        {
+          "name": "ajudantenosonho.png",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/ajudantenosonho.png"
+        },
+        {
+          "name": "zdica1.png",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/zdica1.png"
+        },
+        {
+          "name": "zdream.png",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/zdream.png"
+        },
+        {
+          "name": "zdream2.jpg",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/zdream2.jpg"
+        },
+        {
+          "name": "zlocalbossgame1.jpg",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/zlocalbossgame1.jpg"
+        },
+        {
+          "name": "zlugar1.jpeg",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/zlugar1.jpeg"
+        },
+        {
+          "name": "zlugar2.png",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/zlugar2.png"
+        },
+        {
+          "name": "zplace6.png",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/zplace6.png"
+        },
+        {
+          "name": "zpossivel30.jpg",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/zpossivel30.jpg"
+        },
+        {
+          "name": "zpossivel31.jpg",
+          "url": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/zpossivel31.jpg"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/_INSPIRADOR/FINALBOSS_GAME1_or_DREAM/00015-fluxArtFusionV10Fp8_v10Fp8.jpeg"
+    },
+    {
+      "id": "node_44",
+      "name": "ITENS_OUTROS",
+      "type": "folder",
+      "texts": [],
+      "images": [
+        {
+          "name": "images (6).webp",
+          "url": "/assets/_INSPIRADOR/ITENS_OUTROS/images__6_.webp"
+        },
+        {
+          "name": "UniversalUpscaler_2a1888c3-ab1f-41df-8347-3d230b4e5f73.jpeg",
+          "url": "/assets/_INSPIRADOR/ITENS_OUTROS/UniversalUpscaler_2a1888c3-ab1f-41df-8347-3d230b4e5f73.jpeg"
+        },
+        {
+          "name": "WhatsApp Image 2025-10-30 at 13.05.36.jpeg",
+          "url": "/assets/_INSPIRADOR/ITENS_OUTROS/WhatsApp_Image_2025-10-30_at_13.05.36.jpeg"
+        },
+        {
+          "name": "zbigint1.jpg",
+          "url": "/assets/_INSPIRADOR/ITENS_OUTROS/zbigint1.jpg"
+        },
+        {
+          "name": "zespada1.jpeg",
+          "url": "/assets/_INSPIRADOR/ITENS_OUTROS/zespada1.jpeg"
+        },
+        {
+          "name": "zespada2.jpeg",
+          "url": "/assets/_INSPIRADOR/ITENS_OUTROS/zespada2.jpeg"
+        },
+        {
+          "name": "zespada3.jpg",
+          "url": "/assets/_INSPIRADOR/ITENS_OUTROS/zespada3.jpg"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/_INSPIRADOR/ITENS_OUTROS/images__6_.webp"
+    },
+    {
+      "id": "node_45",
+      "name": "MAPAS_MANUAIS",
+      "type": "folder",
+      "texts": [],
+      "images": [
+        {
+          "name": "WhatsApp Image 2025-10-09 at 15.48.03.jpeg",
+          "url": "/assets/_INSPIRADOR/MAPAS_MANUAIS/WhatsApp_Image_2025-10-09_at_15.48.03.jpeg"
+        },
+        {
+          "name": "WhatsApp Image 2026-03-23 at 14.53.19.jpeg",
+          "url": "/assets/_INSPIRADOR/MAPAS_MANUAIS/WhatsApp_Image_2026-03-23_at_14.53.19.jpeg"
+        },
+        {
+          "name": "WhatsApp Image 2026-04-08 at 13.22.09.jpeg",
+          "url": "/assets/_INSPIRADOR/MAPAS_MANUAIS/WhatsApp_Image_2026-04-08_at_13.22.09.jpeg"
+        },
+        {
+          "name": "zbigint2.jpeg",
+          "url": "/assets/_INSPIRADOR/MAPAS_MANUAIS/zbigint2.jpeg"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/_INSPIRADOR/MAPAS_MANUAIS/WhatsApp_Image_2025-10-09_at_15.48.03.jpeg"
+    },
+    {
+      "id": "node_46",
+      "name": "MENUS_OUTROS",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [
+        {
+          "id": "node_47",
+          "name": "_DEFINIDOS",
+          "type": "folder",
+          "texts": [],
+          "images": [],
+          "children": [
+            {
+              "id": "node_48",
+              "name": "Apresentação do Título",
+              "type": "folder",
+              "texts": [
+                {
+                  "title": "_Instrução.txt",
+                  "content": "Vai aparecer após a cutscene inicial (e talvez isso seja após o player jogar o prologo inteiro - TENHO QUE ARRUMAR A PARTE ESPECÍFICA)"
+                }
+              ],
+              "images": [
+                {
+                  "name": "_Titulos.png",
+                  "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Apresenta__o_do_T_tulo/_Titulos.png"
+                },
+                {
+                  "name": "P1.png",
+                  "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Apresenta__o_do_T_tulo/P1.png"
+                },
+                {
+                  "name": "P2_Molde.png",
+                  "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Apresenta__o_do_T_tulo/P2_Molde.png"
+                },
+                {
+                  "name": "P2.png",
+                  "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Apresenta__o_do_T_tulo/P2.png"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Apresenta__o_do_T_tulo/_Titulos.png"
+            },
+            {
+              "id": "node_49",
+              "name": "Tela de Loading",
+              "type": "folder",
+              "texts": [],
+              "images": [],
+              "children": [
+                {
+                  "id": "node_50",
+                  "name": "Simbolo no Canto da Tela",
+                  "type": "folder",
+                  "texts": [
+                    {
+                      "title": "__Fazer.txt",
+                      "content": "- usar pincel/lapis preto do paint para passar nas letras como se fossem cortes (com faiscas e tudo o mais)\r\n- o portal fica girando e pode aumentar e diminuir caso algo entre ou saia dele\r\n- TALVEZ ao invés da mão de monstro sempre, podem ter diferentes coisas puxando ou empurrando pro portal dependendo do jogo em questão. Talvez sempre mão de algo ou outras animações msm\r\n- e estava pensando em colocar um GIF tematico (cada jogo) pequeno ao lado dessa animação de saving (ao lado direito do portal)"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "name": "Simbolo_carregamento_molde.png",
+                      "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Simbolo_carregamento_molde.png"
+                    },
+                    {
+                      "name": "Simbolo_carregamento.png",
+                      "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Simbolo_carregamento.png"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "node_51",
+                      "name": "Animação",
+                      "type": "folder",
+                      "texts": [],
+                      "images": [
+                        {
+                          "name": "anim1.png",
+                          "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Anima__o/anim1.png"
+                        },
+                        {
+                          "name": "anim2.png",
+                          "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Anima__o/anim2.png"
+                        },
+                        {
+                          "name": "anim3.png",
+                          "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Anima__o/anim3.png"
+                        },
+                        {
+                          "name": "anim4.png",
+                          "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Anima__o/anim4.png"
+                        },
+                        {
+                          "name": "anim5.png",
+                          "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Anima__o/anim5.png"
+                        },
+                        {
+                          "name": "anim6.png",
+                          "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Anima__o/anim6.png"
+                        },
+                        {
+                          "name": "anim7.png",
+                          "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Anima__o/anim7.png"
+                        },
+                        {
+                          "name": "anim8.png",
+                          "url": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Anima__o/anim8.png"
+                        }
+                      ],
+                      "children": [],
+                      "coverImage": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Anima__o/anim1.png"
+                    }
+                  ],
+                  "coverImage": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Simbolo_carregamento_molde.png"
+                }
+              ],
+              "coverImage": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Tela_de_Loading/Simbolo_no_Canto_da_Tela/Simbolo_carregamento_molde.png"
+            }
+          ],
+          "coverImage": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Apresenta__o_do_T_tulo/_Titulos.png"
+        },
+        {
+          "id": "node_52",
+          "name": "INSPIRAÇÃO",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "Bio1.png",
+              "url": "/assets/_INSPIRADOR/MENUS_OUTROS/INSPIRA__O/Bio1.png"
+            },
+            {
+              "name": "Bio2.png",
+              "url": "/assets/_INSPIRADOR/MENUS_OUTROS/INSPIRA__O/Bio2.png"
+            },
+            {
+              "name": "BioTip.png",
+              "url": "/assets/_INSPIRADOR/MENUS_OUTROS/INSPIRA__O/BioTip.png"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/MENUS_OUTROS/INSPIRA__O/Bio1.png"
+        },
+        {
+          "id": "node_53",
+          "name": "zOutros",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "ChatGPT Image May 9, 2026, 06_16_57 PM - Copia - Copia.png",
+              "url": "/assets/_INSPIRADOR/MENUS_OUTROS/zOutros/ChatGPT_Image_May_9__2026__06_16_57_PM_-_Copia_-_Copia.png"
+            },
+            {
+              "name": "ChatGPT Image May 9, 2026, 06_16_57 PM - Copia.png",
+              "url": "/assets/_INSPIRADOR/MENUS_OUTROS/zOutros/ChatGPT_Image_May_9__2026__06_16_57_PM_-_Copia.png"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/MENUS_OUTROS/zOutros/ChatGPT_Image_May_9__2026__06_16_57_PM_-_Copia_-_Copia.png"
+        }
+      ],
+      "coverImage": "/assets/_INSPIRADOR/MENUS_OUTROS/_DEFINIDOS/Apresenta__o_do_T_tulo/_Titulos.png"
+    },
+    {
+      "id": "node_54",
+      "name": "START and ENDINGS",
+      "type": "folder",
+      "texts": [],
+      "images": [
+        {
+          "name": "WhatsApp Image 2026-04-10 at 01.15.49.jpeg",
+          "url": "/assets/_INSPIRADOR/START_and_ENDINGS/WhatsApp_Image_2026-04-10_at_01.15.49.jpeg"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/_INSPIRADOR/START_and_ENDINGS/WhatsApp_Image_2026-04-10_at_01.15.49.jpeg"
+    },
+    {
+      "id": "node_55",
+      "name": "zESTRUTURAS_EVENTOS",
+      "type": "folder",
+      "texts": [],
+      "images": [
+        {
+          "name": "WhatsApp Image 2026-03-17 at 15.36.35.jpeg",
+          "url": "/assets/_INSPIRADOR/zESTRUTURAS_EVENTOS/WhatsApp_Image_2026-03-17_at_15.36.35.jpeg"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/_INSPIRADOR/zESTRUTURAS_EVENTOS/WhatsApp_Image_2026-03-17_at_15.36.35.jpeg"
+    },
+    {
+      "id": "node_56",
+      "name": "zPOSSIVEL",
+      "type": "folder",
+      "texts": [],
+      "images": [
+        {
+          "name": "zint17.jpeg",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zint17.jpeg"
+        },
+        {
+          "name": "zint18.jpg",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zint18.jpg"
+        },
+        {
+          "name": "zpossivel1.png",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel1.png"
+        },
+        {
+          "name": "zpossivel2.png",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel2.png"
+        },
+        {
+          "name": "zpossivel3.png",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel3.png"
+        },
+        {
+          "name": "zpossivel4.png",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel4.png"
+        },
+        {
+          "name": "zpossivel7.png",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel7.png"
+        },
+        {
+          "name": "zpossivel8.jpeg",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel8.jpeg"
+        },
+        {
+          "name": "zpossivel13.jpeg",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel13.jpeg"
+        },
+        {
+          "name": "zpossivel13.png",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel13.png"
+        },
+        {
+          "name": "zpossivel15.jpeg",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel15.jpeg"
+        },
+        {
+          "name": "zpossivel29.png",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel29.png"
+        },
+        {
+          "name": "zpossivel30.jpg",
+          "url": "/assets/_INSPIRADOR/zPOSSIVEL/zpossivel30.jpg"
+        }
+      ],
+      "children": [],
+      "coverImage": "/assets/_INSPIRADOR/zPOSSIVEL/zint17.jpeg"
+    },
+    {
+      "id": "node_57",
+      "name": "zzINTERESSANTE",
+      "type": "folder",
+      "texts": [
+        {
+          "title": "Others.txt",
+          "content": "MILANOTE ou EXCALIDRAW?\r\n\r\nMecanicas:\r\nhttps://store.steampowered.com/app/2183670/Hotel_Galactic/\r\nhttps://www.youtube.com/watch?v=qXCNqaJTxT4\r\nhttps://store.steampowered.com/app/1013280/RagTag/?l=brazilian&curator_clanid=5842689\r\nhttps://www.inklestudios.com/a-highland-song/ \r\nhttps://playworldless.com/?utm_source=Facebook&utm_medium=paid&utm_campaign=Worldless_Launch&utm_term=Social_Ads&utm_content=US\r\nhttps://eriksholmgame.com\r\nhttps://www.youtube.com/watch?v=RWSYWqdVrLk&t=1s\r\n\r\nInspiração para trailer/video:\r\nAlice - Queenslayer: https://www.youtube.com/watch?v=bgVbUYZsZXc\r\n\r\nModelos neon uteis:\r\nhttps://www.google.com/search?client=opera-gx&hs=6k&sca_esv=b47247e4fb460c38&sxsrf=AE3TifO9rCHnuGVmW7ZhWEGPXPJ22ZOxlQ:1753640289273&q=meow+wolf&udm=2&fbs=AIIjpHxX5k-tONtMCu8aDeA7E5WMdDwGSuc8eBkl8hX51y2q6-r6qOmgvFs8yhx59bJgnXQRW0CpTUrikAvoMvruBQ5EvtLViEG3W4D1X-P2_Hbsyz5AAcUopd4BtBTDSzYGTyLHTyPMUWQ8SQLpLlhJNfzN5GBhD5i46Sb6X-Lqxbo7OcVn0sENp1fLuRg_b-cyvcN5-dlFoz_AWJlQheS6_5cFpj3IOQ&sa=X&ved=2ahUKEwi16oWU092OAxUWDrkGHdu5G3YQtKgLKAF6BAgpEAE&biw=1492&bih=718&dpr=1.25\r\n\r\n\r\nJuntar isso com darksouls e sobrevivencia (criação de itens/drop de monstros)\r\nhttps://www.youtube.com/watch?v=6BrZryMz-ac\r\n\r\n\r\nModelos 3D prontos (IA):\r\nhttps://studio.tripo3d.ai/?utm_source=google&utm_medium=cpc&utm_campaign=0703-studiodgall-19&utm_term=&gad_source=2&gad_campaignid=22741734708&gclid=CjwKCAjwuePGBhBZEiwAIGCVSy40Qqyk0oCz6Mt1L3OB-l_xHEfFR70PSaP0XJt3JsZPixtpcbT_oxoCBpwQAvD_BwE&category=featured&model_type=all&recommended=recommended&use_case=all\r\n\r\nSite de vozes de IA que lê textos perfeitamente\r\nhttps://www.openai.fm\r\n\r\n\r\n\r\n\r\n\r\nCuriosidades/notícias importantes:\r\nhttps://www.youtube.com/shorts/KzGdwN5rQyM\r\n\r\n"
+        },
+        {
+          "title": "VER DEPOIS (o do lado).txt",
+          "content": ""
+        }
+      ],
+      "images": [
+        {
+          "name": "capa_da_pasta.jpeg",
+          "url": "/assets/_INSPIRADOR/zzINTERESSANTE/capa_da_pasta.jpeg"
+        }
+      ],
+      "children": [
+        {
+          "id": "node_58",
+          "name": "Blueprints (loading screens)",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "1_p3t0XHNa5b8GxLah__Yo4Q.jpg",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Blueprints__loading_screens_/1_p3t0XHNa5b8GxLah__Yo4Q.jpg"
+            },
+            {
+              "name": "blueprint-sheet.webp",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Blueprints__loading_screens_/blueprint-sheet.webp"
+            },
+            {
+              "name": "WhatsApp Image 2026-05-04 at 15.32.27.jpeg",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Blueprints__loading_screens_/WhatsApp_Image_2026-05-04_at_15.32.27.jpeg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/zzINTERESSANTE/Blueprints__loading_screens_/1_p3t0XHNa5b8GxLah__Yo4Q.jpg"
+        },
+        {
+          "id": "node_59",
+          "name": "Characters Figures",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "1777151086318.jpeg",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/1777151086318.jpeg"
+            },
+            {
+              "name": "tumblr_b4317a0cc554b6caca1dfe6ff6788107_5d5ab07a_1280.jpg",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/tumblr_b4317a0cc554b6caca1dfe6ff6788107_5d5ab07a_1280.jpg"
+            }
+          ],
+          "children": [
+            {
+              "id": "node_60",
+              "name": "Robinsons",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "_laszlo.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/_laszlo.jpg"
+                },
+                {
+                  "name": "1-wilbur.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/1-wilbur.jpg"
+                },
+                {
+                  "name": "2-carl.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/2-carl.jpg"
+                },
+                {
+                  "name": "3-bud.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/3-bud.jpg"
+                },
+                {
+                  "name": "4-franny.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/4-franny.jpg"
+                },
+                {
+                  "name": "5-art.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/5-art.jpg"
+                },
+                {
+                  "name": "6-billi.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/6-billi.jpg"
+                },
+                {
+                  "name": "7-talullah.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/7-talullah.jpg"
+                },
+                {
+                  "name": "8-cotelok.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/8-cotelok.jpg"
+                },
+                {
+                  "name": "9-stanley.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/9-stanley.jpg"
+                },
+                {
+                  "name": "10-lizi.jpg",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/10-lizi.jpg"
+                },
+                {
+                  "name": "h1.gif",
+                  "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/h1.gif"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/Robinsons/_laszlo.jpg"
+            }
+          ],
+          "coverImage": "/assets/_INSPIRADOR/zzINTERESSANTE/Characters_Figures/1777151086318.jpeg"
+        },
+        {
+          "id": "node_61",
+          "name": "ESTILOS",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "dsfg.png",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/ESTILOS/dsfg.png"
+            },
+            {
+              "name": "eb14fa55-186a-48a6-8cb2-b75ab325731f.avif",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/ESTILOS/eb14fa55-186a-48a6-8cb2-b75ab325731f.avif"
+            },
+            {
+              "name": "Sem título.png",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/ESTILOS/Sem_t_tulo.png"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/zzINTERESSANTE/ESTILOS/dsfg.png"
+        },
+        {
+          "id": "node_62",
+          "name": "Others",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "meet-the-robinsons-family-portrait-lkpsv78laibjgyxt.jpg",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/Others/meet-the-robinsons-family-portrait-lkpsv78laibjgyxt.jpg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/zzINTERESSANTE/Others/meet-the-robinsons-family-portrait-lkpsv78laibjgyxt.jpg"
+        },
+        {
+          "id": "node_63",
+          "name": "RPG Site",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "WhatsApp Image 2026-02-23 at 12.57.18.jpeg",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/RPG_Site/WhatsApp_Image_2026-02-23_at_12.57.18.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-02-23 at 12.59.24 (1).jpeg",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/RPG_Site/WhatsApp_Image_2026-02-23_at_12.59.24__1_.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-02-23 at 12.59.24.jpeg",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/RPG_Site/WhatsApp_Image_2026-02-23_at_12.59.24.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-02-23 at 12.59.37.jpeg",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/RPG_Site/WhatsApp_Image_2026-02-23_at_12.59.37.jpeg"
+            },
+            {
+              "name": "WhatsApp Image 2026-02-23 at 12.59.54.jpeg",
+              "url": "/assets/_INSPIRADOR/zzINTERESSANTE/RPG_Site/WhatsApp_Image_2026-02-23_at_12.59.54.jpeg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/zzINTERESSANTE/RPG_Site/WhatsApp_Image_2026-02-23_at_12.57.18.jpeg"
+        }
+      ],
+      "coverImage": "/assets/_INSPIRADOR/zzINTERESSANTE/capa_da_pasta.jpeg"
+    },
+    {
+      "id": "node_64",
+      "name": "zzOficial Game Sites",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "children": [],
+      "coverImage": ""
+    },
+    {
+      "id": "node_65",
+      "name": "zzzLIXO",
+      "type": "folder",
+      "texts": [],
+      "images": [
+        {
+          "name": "capa_da_pasta.webp",
+          "url": "/assets/_INSPIRADOR/zzzLIXO/capa_da_pasta.webp"
+        }
+      ],
+      "children": [
+        {
+          "id": "node_66",
+          "name": "Não_Usados",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "⁄1253E5ECE37D31E283F6FF899851C6165D89699B1681A1D265D9490C4E2F4ADF.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/_1253E5ECE37D31E283F6FF899851C6165D89699B1681A1D265D9490C4E2F4ADF.jpeg"
+            },
+            {
+              "name": "⁄SS6VGRYZTWAGD8V4WENK33JRM0.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/_SS6VGRYZTWAGD8V4WENK33JRM0.png"
+            },
+            {
+              "name": "00000-735264963.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00000-735264963.jpg"
+            },
+            {
+              "name": "00000-1509272747.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00000-1509272747.png"
+            },
+            {
+              "name": "00003-flux_dev.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00003-flux_dev.jpeg"
+            },
+            {
+              "name": "3YD0GEKZZ837TA1QK59FZSZG10.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/3YD0GEKZZ837TA1QK59FZSZG10.jpeg"
+            },
+            {
+              "name": "5f9f7bae-1ec9-4fb2-8080-61db69fd38e1-0.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/5f9f7bae-1ec9-4fb2-8080-61db69fd38e1-0.jpeg"
+            },
+            {
+              "name": "5JBR9KRT5R9MX2Y6SXRDW5EK80.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/5JBR9KRT5R9MX2Y6SXRDW5EK80.jpeg"
+            },
+            {
+              "name": "00006-flux_dev.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00006-flux_dev.jpeg"
+            },
+            {
+              "name": "6c699fdb-51d2-4f93-964c-9d55ca4b2673-0.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/6c699fdb-51d2-4f93-964c-9d55ca4b2673-0.png"
+            },
+            {
+              "name": "7PYPZEAAVE1BMYV9G5XE9JBD50.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/7PYPZEAAVE1BMYV9G5XE9JBD50.png"
+            },
+            {
+              "name": "8RNSABY860RKHAFRFKASZ3C2M0.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/8RNSABY860RKHAFRFKASZ3C2M0.jpeg"
+            },
+            {
+              "name": "8SGBN2BGFGSN4RZMM91F2KXEJ0.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/8SGBN2BGFGSN4RZMM91F2KXEJ0.jpeg"
+            },
+            {
+              "name": "00009-4182775333.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00009-4182775333.png"
+            },
+            {
+              "name": "00009-flux_dev.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00009-flux_dev.jpeg"
+            },
+            {
+              "name": "00013-1180472383.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00013-1180472383.png"
+            },
+            {
+              "name": "00019-2041329525.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00019-2041329525.jpg"
+            },
+            {
+              "name": "00021-2130037604.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00021-2130037604.png"
+            },
+            {
+              "name": "00028-2328833208.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00028-2328833208.png"
+            },
+            {
+              "name": "00029-3765947916.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00029-3765947916.png"
+            },
+            {
+              "name": "00031-3331854559.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00031-3331854559.jpg"
+            },
+            {
+              "name": "00040-fluxArtFusionV10Fp8_v10Fp8.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00040-fluxArtFusionV10Fp8_v10Fp8.jpeg"
+            },
+            {
+              "name": "51W13DFHXXSEK0X1Y2D96QYZ00.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/51W13DFHXXSEK0X1Y2D96QYZ00.jpeg"
+            },
+            {
+              "name": "00056-4265987141.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00056-4265987141.png"
+            },
+            {
+              "name": "00063-4275214079.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00063-4275214079.jpg"
+            },
+            {
+              "name": "63K0E0KZQ41PXT0E9Z3FS991V0.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/63K0E0KZQ41PXT0E9Z3FS991V0.jpeg"
+            },
+            {
+              "name": "00068-3315859013-2.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00068-3315859013-2.png"
+            },
+            {
+              "name": "00072-flux_dev.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00072-flux_dev.jpeg"
+            },
+            {
+              "name": "00073-flux_dev.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00073-flux_dev.jpeg"
+            },
+            {
+              "name": "00122-1010951799.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/00122-1010951799.jpg"
+            },
+            {
+              "name": "778_2026-02-15-205549_z_image_turbo_bf16_8326599255701.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/778_2026-02-15-205549_z_image_turbo_bf16_8326599255701.jpg"
+            },
+            {
+              "name": "2026-02-09_17-23-25_4134.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/2026-02-09_17-23-25_4134.png"
+            },
+            {
+              "name": "2026-02-14-225123_zImage_turbo_961305748180995.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/2026-02-14-225123_zImage_turbo_961305748180995.jpg"
+            },
+            {
+              "name": "2026-02-15_04-01-25_6506b.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/2026-02-15_04-01-25_6506b.png"
+            },
+            {
+              "name": "2026-02-15-1459_904005174136753_Upscale.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/2026-02-15-1459_904005174136753_Upscale.png"
+            },
+            {
+              "name": "2026-02-26-212745_zImage_turbo_1090907669603400.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/2026-02-26-212745_zImage_turbo_1090907669603400.jpg"
+            },
+            {
+              "name": "7130081c-6387-48e1-b2f7-b3fe8d8a9eda.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/7130081c-6387-48e1-b2f7-b3fe8d8a9eda.jpeg"
+            },
+            {
+              "name": "20260215_1131_Image Generation_simple_compose_01khgdm8fpe8pay8mzwazs5sh4.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/20260215_1131_Image_Generation_simple_compose_01khgdm8fpe8pay8mzwazs5sh4.jpg"
+            },
+            {
+              "name": "A0RCHP0ZAA1AAMQA7W4SCP6S10.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/A0RCHP0ZAA1AAMQA7W4SCP6S10.jpeg"
+            },
+            {
+              "name": "A05KRC66TWTXRTQC71T0ZKYJN0.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/A05KRC66TWTXRTQC71T0ZKYJN0.jpeg"
+            },
+            {
+              "name": "A67YWGR5QDX6ZX98RZ3JQRAZR0.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/A67YWGR5QDX6ZX98RZ3JQRAZR0.jpeg"
+            },
+            {
+              "name": "ABAYKSHWEC1VWQ04DQ9YJH11H0.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/ABAYKSHWEC1VWQ04DQ9YJH11H0.jpeg"
+            },
+            {
+              "name": "AKNFSJ2MN36DCQ9Q5N4TX08JK0.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/AKNFSJ2MN36DCQ9Q5N4TX08JK0.jpeg"
+            },
+            {
+              "name": "animazingxl_v10_1121447413356805_00002_.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/animazingxl_v10_1121447413356805_00002_.png"
+            },
+            {
+              "name": "Arch00077-3553749207-2.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/Arch00077-3553749207-2.png"
+            },
+            {
+              "name": "azureStarfire_stellarStableV2-2026-02-14-2026-02-14-081321-202883_raw_01.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/azureStarfire_stellarStableV2-2026-02-14-2026-02-14-081321-202883_raw_01.jpeg"
+            },
+            {
+              "name": "be3ef4d9-f973-4f75-a3a4-b050109b8b85-0.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/be3ef4d9-f973-4f75-a3a4-b050109b8b85-0.jpg"
+            },
+            {
+              "name": "ComfyUI_02209_b.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/ComfyUI_02209_b.png"
+            },
+            {
+              "name": "ComfyUI_216359897715559_00001_.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/ComfyUI_216359897715559_00001_.png"
+            },
+            {
+              "name": "ComfyUI_484015313434922_00001_.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/ComfyUI_484015313434922_00001_.jpg"
+            },
+            {
+              "name": "ComfyUI_738130974321307_00001_.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/ComfyUI_738130974321307_00001_.png"
+            },
+            {
+              "name": "ComfyUI4_03293_b.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/ComfyUI4_03293_b.png"
+            },
+            {
+              "name": "daily_challenge_28448.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/daily_challenge_28448.png"
+            },
+            {
+              "name": "download - 2025-09-20T124343.894.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/download_-_2025-09-20T124343.894.jpeg"
+            },
+            {
+              "name": "download.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/download.png"
+            },
+            {
+              "name": "FFMYCKW5E0AMK02XKEX18CCMA0.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/FFMYCKW5E0AMK02XKEX18CCMA0.jpeg"
+            },
+            {
+              "name": "Flowlast 52.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/Flowlast_52.jpeg"
+            },
+            {
+              "name": "freepik__a-horrific-battle-in-the-decemberist-revolution-bu__20684.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/freepik__a-horrific-battle-in-the-decemberist-revolution-bu__20684.jpg"
+            },
+            {
+              "name": "Furr00000-2262109168-2.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/Furr00000-2262109168-2.png"
+            },
+            {
+              "name": "image(234).png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/image_234_.png"
+            },
+            {
+              "name": "mklanANIMEHentai_thehentaiv1-30-7-3159749415-H1124.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/mklanANIMEHentai_thehentaiv1-30-7-3159749415-H1124.png"
+            },
+            {
+              "name": "mklanIllustriousReal_v10-30-7-3310325482-H1107.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/mklanIllustriousReal_v10-30-7-3310325482-H1107.png"
+            },
+            {
+              "name": "mklanIllustriousReal_v10-30-7-3385760517-H0210.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/mklanIllustriousReal_v10-30-7-3385760517-H0210.png"
+            },
+            {
+              "name": "MZ3KAMVR8GQDPPSRXVKKJEZVE0.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/MZ3KAMVR8GQDPPSRXVKKJEZVE0.jpg"
+            },
+            {
+              "name": "P0M0XMWSQGMJJ7Z2P61N40F860.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/P0M0XMWSQGMJJ7Z2P61N40F860.jpeg"
+            },
+            {
+              "name": "PFJJEZN6YQX2RXF51ZYR44PB70.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/PFJJEZN6YQX2RXF51ZYR44PB70.jpeg"
+            },
+            {
+              "name": "STXCYJWQHKBARNA5Y1DNYWDWX0.jpeg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/STXCYJWQHKBARNA5Y1DNYWDWX0.jpeg"
+            },
+            {
+              "name": "Z-Image_00170_.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/Z-Image_00170_.jpg"
+            },
+            {
+              "name": "Z-Image_00198_.jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/Z-Image_00198_.jpg"
+            },
+            {
+              "name": "ZIB WITH LORA_image (4).jpg",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/ZIB_WITH_LORA_image__4_.jpg"
+            }
+          ],
+          "children": [],
+          "coverImage": "/assets/_INSPIRADOR/zzzLIXO/N_o_Usados/_1253E5ECE37D31E283F6FF899851C6165D89699B1681A1D265D9490C4E2F4ADF.jpeg"
+        },
+        {
+          "id": "node_67",
+          "name": "zAnother Account",
+          "type": "folder",
+          "texts": [],
+          "images": [
+            {
+              "name": "Generated Image January 24 (Paint Edited).png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/zAnother_Account/Generated_Image_January_24__Paint_Edited_.png"
+            },
+            {
+              "name": "Generated Image January 24, 2026 - 5_37AM.png",
+              "url": "/assets/_INSPIRADOR/zzzLIXO/zAnother_Account/Generated_Image_January_24__2026_-_5_37AM.png"
+            }
+          ],
+          "children": [
+            {
+              "id": "node_68",
+              "name": "zzzLIXO",
+              "type": "folder",
+              "texts": [],
+              "images": [
+                {
+                  "name": "2cc72740-f15b-4037-b66d-9f2c8eb0cb36-0.jpeg",
+                  "url": "/assets/_INSPIRADOR/zzzLIXO/zAnother_Account/zzzLIXO/2cc72740-f15b-4037-b66d-9f2c8eb0cb36-0.jpeg"
+                },
+                {
+                  "name": "2025-10-22-130340__32038727195753.png",
+                  "url": "/assets/_INSPIRADOR/zzzLIXO/zAnother_Account/zzzLIXO/2025-10-22-130340__32038727195753.png"
+                },
+                {
+                  "name": "20251112_211409_m.a7658c7398_se.2750586243_st.20_c.7_1504x2256.jpeg",
+                  "url": "/assets/_INSPIRADOR/zzzLIXO/zAnother_Account/zzzLIXO/20251112_211409_m.a7658c7398_se.2750586243_st.20_c.7_1504x2256.jpeg"
+                },
+                {
+                  "name": "A_meticulously_postapoc_3.jpeg",
+                  "url": "/assets/_INSPIRADOR/zzzLIXO/zAnother_Account/zzzLIXO/A_meticulously_postapoc_3.jpeg"
+                },
+                {
+                  "name": "image (11).jpeg",
+                  "url": "/assets/_INSPIRADOR/zzzLIXO/zAnother_Account/zzzLIXO/image__11_.jpeg"
+                }
+              ],
+              "children": [],
+              "coverImage": "/assets/_INSPIRADOR/zzzLIXO/zAnother_Account/zzzLIXO/2cc72740-f15b-4037-b66d-9f2c8eb0cb36-0.jpeg"
+            }
+          ],
+          "coverImage": "/assets/_INSPIRADOR/zzzLIXO/zAnother_Account/Generated_Image_January_24__Paint_Edited_.png"
+        }
+      ],
+      "coverImage": "/assets/_INSPIRADOR/zzzLIXO/capa_da_pasta.webp"
+    }
+  ],
+  "coverImage": "/assets/_INSPIRADOR/capa_da_pasta.png"
+}

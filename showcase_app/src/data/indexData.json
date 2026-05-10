@@ -1,0 +1,97 @@
+{
+  "id": "node_0",
+  "name": "_IMAGENS",
+  "type": "folder",
+  "texts": [
+    {
+      "title": "__OQ_TENHO.txt",
+      "content": "- titulos (100%)\r\n- sinopses (70%)\r\n- enredo parcial (50-70%)\r\n- personagens (30-60%)\r\n- habilidades (70%)\r\n- imagens/design (20%)\r\n- menus/mapas/mecanicas (50%)"
+    }
+  ],
+  "images": [],
+  "coverImage": "/assets/_INSPIRADOR/capa_da_pasta.png",
+  "children": [
+    {
+      "id": "node_1",
+      "name": "_INSPIRADOR",
+      "type": "folder_reference",
+      "file": "_inspirador",
+      "coverImage": "/assets/_INSPIRADOR/capa_da_pasta.png",
+      "childrenCount": 16,
+      "imagesCount": 1
+    },
+    {
+      "id": "node_69",
+      "name": "Games",
+      "type": "folder",
+      "texts": [],
+      "images": [],
+      "coverImage": "/assets/Games/Game__1_/Characters/BossFinal/_FinalBoss.png",
+      "children": [
+        {
+          "id": "node_70",
+          "name": "Game (1)",
+          "type": "game_reference",
+          "file": "game__1_",
+          "coverImage": "/assets/Games/Game__1_/Characters/BossFinal/_FinalBoss.png",
+          "childrenCount": 2,
+          "imagesCount": 0
+        },
+        {
+          "id": "node_77",
+          "name": "Game (2)",
+          "type": "game_reference",
+          "file": "game__2_",
+          "coverImage": "/assets/Games/Game__2_/Characters/Aprendiz/_Aprendiz.avif",
+          "childrenCount": 2,
+          "imagesCount": 0
+        },
+        {
+          "id": "node_84",
+          "name": "Game (3)",
+          "type": "game_reference",
+          "file": "game__3_",
+          "coverImage": "/assets/Games/Game__3_/Characters/Protagonista/_Prota.jpg",
+          "childrenCount": 2,
+          "imagesCount": 0
+        },
+        {
+          "id": "node_89",
+          "name": "Game (4)",
+          "type": "game_reference",
+          "file": "game__4_",
+          "coverImage": "/assets/Games/Game__4_/Characters/Protagonista/_Prota.jpg",
+          "childrenCount": 2,
+          "imagesCount": 0
+        },
+        {
+          "id": "node_94",
+          "name": "Game (5)",
+          "type": "game_reference",
+          "file": "game__5_",
+          "coverImage": "",
+          "childrenCount": 2,
+          "imagesCount": 0
+        },
+        {
+          "id": "node_97",
+          "name": "Game (6X)",
+          "type": "game_reference",
+          "file": "game__6x_",
+          "coverImage": "/assets/Games/Game__6X_/Characters/Protagonista/_Prota.jpg",
+          "childrenCount": 2,
+          "imagesCount": 0
+        },
+        {
+          "id": "node_101",
+          "name": "Game (7)",
+          "type": "game_reference",
+          "file": "game__7_",
+          "coverImage": "/assets/Games/Game__7_/Characters/Protagonista/_Prota.jpg",
+          "childrenCount": 2,
+          "imagesCount": 0
+        }
+      ]
+    }
+  ]
+}
