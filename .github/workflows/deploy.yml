@@ -31,10 +31,6 @@ jobs:
         run: npm install
         working-directory: showcase_app
 
-      - name: Generate data
-        run: node scripts/generate-data.js
-        working-directory: showcase_app
-
       - name: Build
         run: npm run build
         working-directory: showcase_app
